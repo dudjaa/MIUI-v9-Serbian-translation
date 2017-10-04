@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрирање</item>
+        <item>Читање контаката</item>
+        <item>Измена контаката</item>
+        <item>Читање записника позива</item>
+        <item>Измена записника позива</item>
+        <item>Читање календара</item>
+        <item>Измена календара</item>
+        <item>Локација</item>
+        <item>Објављивање обавештења</item>
+        <item>Локација</item>
+        <item>Позив на телефон</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Слање SMS-a/MMS-a</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Измена подешавања</item>
+        <item>Повлачење на врх</item>
+        <item>Приступ обавештењима</item>
+        <item>Камера</item>
+        <item>Снимање звука</item>
+        <item>Репродукција аудио записа</item>
+        <item>Читај бафер</item>
+        <item>Измена долазне поште</item>
+        <item>Измени бафер</item>
+        <item>Медијски дугмићи</item>
+        <item>Аудифокус</item>
+        <item>Главна јачина</item>
+        <item>Јачина гласа</item>
+        <item>Јачина звона</item>
+        <item>Јачина медија</item>
+        <item>Јачина аларма</item>
+        <item>Јачина обавештења</item>
+        <item>Јачина Bluetootha</item>
+        <item>Задржи у активном стању</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Укљ./искљ WLAN</item>
+        <item>Укљ./искљ Bluetooth</item>
+        <item>Укљ./искљ. података</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Покрени код покретања</item>
+    </string-array>
+    <string-array name="emailAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Кућа</item>
+        <item>Мобилни</item>
+        <item>Посао</item>
+        <item>Факс на послу</item>
+        <item>Факс код куће</item>
+        <item>Пејџер</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Друго</item>
+        <item>Прилагођено</item>
+    </string-array>
+</resources>

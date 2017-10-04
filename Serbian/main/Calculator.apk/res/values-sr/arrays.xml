@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>лева заграда</item>
+        <item>десна заграда</item>
+        <item>факторијел</item>
+        <item>природни алгоритам</item>
+        <item>логиритам</item>
+        <item>други корен</item>
+        <item>подељено са</item>
+        <item>помножено са</item>
+        <item>плус</item>
+        <item>минус</item>
+        <item> бод </item>
+        <item>снага</item>
+        <item>тангента</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>једнако</item>
+    </string-array>
+</resources>

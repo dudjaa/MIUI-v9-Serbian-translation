@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="local_records_count">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+     </plurals>
+     <plurals name="record_downloading_complete_count">
+        <item quantity="other">Преузето(%d ) снимака</item>
+        <item quantity="one">%d снимак преузет</item>
+     </plurals>
+     <plurals name="unsynced_records_count">
+        <item quantity="other">%d није синхр.</item>
+        <item quantity="one">%d није синхр.</item>
+     </plurals>
+</resources>

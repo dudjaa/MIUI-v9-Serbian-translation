@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="aqi_detail_title">
+        <item>Добро</item>
+        <item>Умерено</item>
+        <item>Нездраво за осетљиве</item>
+        <item>Нездраво</item>
+        <item>Врло нездраво</item>
+        <item>Рискантно</item>
+     </string-array>
+     <string-array name="breeze">
+        <item>&lt;Beaufort број 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+     </string-array>
+     <string-array name="hot_city">
+        <item>Београд</item>
+        <item>Нови Сад</item>
+        <item>Ниш</item>
+        <item>Крагујевац</item>
+        <item>Суботица</item>
+        <item>Панчево</item>
+        <item>Зрењанин</item>
+        <item>Чачак</item>
+        <item>Нови Пазар</item>
+        <item>Ужице</item>
+        <item>Крушевац</item>
+        <item>Пирот</item>
+        <item>Сомбор</item>
+        <item>Бор</item>
+        <item>Врање</item>
+        <item>Јагодина</item>
+        <item>Ћуприја</item>
+        <item>Параћин</item>
+        <item>Ражањ</item>
+        <item>Лозница</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Погодно</item>
+        <item>Непогодно</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Погодно</item>
+        <item>Непогодно</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Слаб</item>
+        <item>Средњи</item>
+        <item>Јак</item>
+     </string-array>
+     <string-array name="moon_desc">
+        <item>Нови месец</item>
+        <item>Повећање српа</item>
+        <item>Прва четвртина</item>
+        <item>Млади месец</item>
+        <item>Пуни месец</item>
+        <item>Млади месец</item>
+        <item>Задња четвртина</item>
+        <item>Смањење српа</item>
+        <item>Тамни месец</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Најслабије</item>
+        <item>Слабије</item>
+        <item>Средње</item>
+        <item>Јако</item>
+        <item>Најјаче</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Ведро</item>
+        <item>Облачно</item>
+        <item>Наоблачење</item>
+        <item>Магловито</item>
+        <item>Тешки пљускови</item>
+        <item>Пљускови</item>
+        <item>Пљускови</item>
+        <item>Олуја</item>
+        <item>Пљускови</item>
+        <item>Јака киша</item>
+        <item>Умерена киша</item>
+        <item>Лагана киша</item>
+        <item>Киша са снегом</item>
+        <item>Вејавица</item>
+        <item>Снег</item>
+        <item>Густ снег</item>
+        <item>Умерен снег</item>
+        <item>Суснежица</item>
+        <item>Снажна пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Слаба пешчана олуја</item>
+        <item>Ветровито</item>
+        <item>Град</item>
+        <item>Прашњаво</item>
+        <item>Сумаглица</item>
+        <item>Ледена киша</item>
+        <item>Нема података</item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>Ветар S</item>
+        <item>Ветар SI</item>
+        <item>Ветар I</item>
+        <item>Ветар JI</item>
+        <item>Ветар J</item>
+        <item>Ветар JZ</item>
+        <item>Ветар Z</item>
+        <item>Ветар SZ</item>
+     </string-array>
+     <string-array name="wind_direction_simple">
+        <item>S</item>
+        <item>SI</item>
+        <item>I</item>
+        <item>JI</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+     </string-array>
+     <string-array name="wind_unit_detail">
+        <item>Beaufort лествица</item>
+        <item>Километара на сат (km/h)</item>
+        <item>Метара у секунди (m/s))</item>
+        <item>Миља на сат (mph)</item>
+        <item>Кнот (kn)</item>
+     </string-array>
+     <string-array name="wind_unit_replace">
+        <item>Beaufort број %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+     </string-array>
+     <string-array name="wind_unit_simple">
+        <item>Beaufort лествица</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+     </string-array>
+</resources>

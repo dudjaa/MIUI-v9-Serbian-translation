@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="auto_memory_clean">
+         <item>за 1 мин</item>
+         <item>за 5 мин</item>
+         <item>за 10 мин</item>
+		 <item>за 30 мин.</item>
+         <item>Никад</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+         <item>Покретач</item>
+         <item>Бирање</item>
+         <item>Поруке</item>
+         <item>Претраживач</item>
+         <item>Камера</item>
+         <item>Галерија</item>
+         <item>Музика</item>
+         <item>E-пошта</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Једном</item>
+        <item>Свакодневно</item>
+        <item>Радним данима</item>
+        <item>Викендом</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Једном</item>
+        <item>Свакодневно</item>
+        <item>Викендом</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Након 1 минута</item>
+        <item>Након 5 минута</item>
+        <item>Након 10 минута</item>
+        <item>Никад</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минут</item>
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>Никад</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Високе перформансе</item>
+        <item>Балансирани</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Никад не вибрирај</item>
+        <item>Вибрација кад је звук утишан</item>
+        <item>Увек вибрирај</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Искључи</item>
+        <item>Укључи</item>
+        <item>Задато</item>
+    </string-array>
+</resources>

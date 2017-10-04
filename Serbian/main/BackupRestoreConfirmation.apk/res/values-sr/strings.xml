@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="allow_backup_button_label">Створи сигурносну копију мојих података</string>
+     <string name="allow_restore_button_label">Обнови моје податке</string>
+     <string name="backup_confirm_text">""Затражена је израда потпуне сигурносне копије свих података на стони рачунар. "Допуштате ли овај захтев?" 
+Ако нисте лично затражили копију сигурносне копије немојте дозволити наставак радње."</string>
+     <string name="backup_confirm_title">Потпуна сигурносна копија</string>
+     <string name="backup_enc_password_optional">Ако желите криптовати потпуну сигурносну копију, унесите лозинку:</string>
+     <string name="backup_enc_password_required">Будући да је ваш уређај криптован, морате шифровати сигурносне копије. Унесите лозинку у наставку:</string>
+     <string name="backup_enc_password_text">Молимо унесите лозинку за криптовање потпуно сигурносне копије. Ако ово поље оставите празно, биће употребљена ваша тренутна лозинка за сигурносне копије :</string>
+     <string name="current_password_text">Молимо унесите вашу тренутну лозинку за сигурносне копије:</string>
+     <string name="deny_backup_button_label">Немој израдити сигурносну копију</string>
+     <string name="deny_restore_button_label">Немој обновити податке</string>
+     <string name="device_encryption_backup_text">Молимо унесите лозинку за криптовање вашег уређаја. Она ће се такође употребити за криптовање архиве сигурносне копије.</string>
+     <string name="device_encryption_restore_text">Молимо унесите лозинку за криптовање ваших уеђаја.</string>
+     <string name="restore_confirm_text">""Затражена је потпуна обнова свих података са стоног рачунара. "Допуштате ли тај захтев?" 
+Ако нисте лично затражили обнову података,немојте дозволити наставак радње. Ово ће заменити све податке који су тренутно на уређају!"</string>
+     <string name="restore_confirm_title">Потпуна обнова</string>
+     <string name="restore_enc_password_text">Ако су подаци за обнову криптовани, молимо унесите лозинку:</string>
+     <string name="toast_backup_ended">Израда сигурносне копије завршена</string>
+     <string name="toast_backup_started">Започиње израда сигурносне копије…</string>
+     <string name="toast_restore_ended">Обнова података је завршена</string>
+     <string name="toast_restore_started">Започиње обнова података…</string>
+     <string name="toast_timeout">Радња је прекинута због истека времена</string>
+</resources>

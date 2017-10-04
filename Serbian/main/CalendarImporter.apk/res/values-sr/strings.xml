@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Календар: "</string>
+  <string name="cancel">Откажи</string>
+  <string name="date_lable">"Датум: "</string>
+  <string name="done">Готово</string>
+  <string name="give_up">Прекини</string>
+  <string name="import_button">Увези</string>
+  <string name="import_complete">Увоз завршен</string>
+  <string name="import_message">Желите ли да увезете # у Календар?</string>
+  <string name="import_title">Увоз догађаја календара</string>
+  <string name="import_to">Увези у</string>
+  <string name="import_vcs_failed">Увоз догађаја није успео.</string>
+  <string name="importing">Увоз...</string>
+  <string name="loading">Учитавање…</string>
+  <string name="no_access_toast">Налог није нађен. Прво додајте налог</string>
+  <string name="no_calendars_found">Овај налог не подржава синхронизацију календара или последња синхронизација још није завршена.</string>
+  <string name="no_syncable_calendars">Није могуће увести</string>
+  <string name="not_support_multi_events">Датотека са више догађаја није подржана.</string>
+  <string name="null_name">Ништа</string>
+  <string name="open">Отвори</string>
+  <string name="open_calendar_failed">Календар није доступан.</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Покушај поново</string>
+  <string name="title_lable">"Наслов: "</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Управљач и преузимања</string>
+  <string name="auto_restart_under_wifi">WLAN ће преузети аутоматски ову датотеку</string>
+  <string name="button_cancel_download">Одустани</string>
+  <string name="button_download_now">Преузмите сада</string>
+  <string name="button_queue_for_wifi">Ред Чекања</string>
+  <string name="button_start_now">Започни сад</string>
+  <string name="button_wait_for_wifi">Чекај</string>
+  <string name="dialog_insufficient_space_on_cache">Нема довољно простора на унутрашњој меморији</string>
+  <string name="dialog_insufficient_space_on_external">Нема довољно простора на спољашњој меморији</string>
+  <string name="dialog_not_show_again">"Не приказуј поново"</string>
+  <string name="download_error">Неуспешно</string>
+  <string name="download_no_application_title">"Није могуће отварање датотеке"</string>
+  <string name="download_percent">%d%%</string>
+  <string name="download_queued">На чекању</string>
+  <string name="download_remaining">Још %s</string>
+  <string name="download_running">У току</string>
+  <string name="download_running_percent">У току, %d%%</string>
+  <string name="download_unknown_title">&lt;Без наслова&gt;</string>
+  <string name="enter_garbage_clean">Очистите унутрашњу меморију.</string>
+  <string name="insufficient_space">"Нема довољно простора на унутрашњој меморији вашег уређаја"</string>
+  <string name="mobile_recommended_title">Употреба моб. података</string>
+  <string name="notif_text_engine_off">Xunlei accelerator је искључен.</string>
+  <string name="notif_text_engine_on">Убрзавање преузимања…(само за Кину)</string>
+  <string name="notif_title_file_size">Величина: %%1$d</string>
+  <string name="notif_title_multiple_downloading">Преузимање: %1$d</string>
+  <string name="notif_title_single_downloading">Преузимање: %1$s</string>
+  <string name="notification_download_complete">Преузимање је довршено.</string>
+  <string name="notification_download_failed">Преузимање није успело.</string>
+  <string name="notification_download_failed_more">"Не могу преузети %1$d ставки"</string>
+  <string name="notification_download_success_more">Преузето %1$ датотека</string>
+  <string name="notification_need_wifi_for_size">Величина захтева WLAN</string>
+  <string name="notification_paused_in_background">Паузирано у позадини.</string>
+  <string name="paused_waiting_for_network">Чекање на мрежу</string>
+  <string name="permdesc_accessAllDownloads">Омогућује апликацији приказ и измену свих преузимања која је покренула било која апликација у систему.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Омогућује апликацији преузимање датотека у предмеморију преузимања која се не може аутоматски избрисати када управљачу преузимања треба више простора.</string>
+  <string name="permdesc_downloadCompletedIntent">Омогућује апликацији слање обавештења о довршеним преузимањима. Злонамерне апликације могу то искористити за збуњивање других апликација које преузимају датотеке.</string>
+  <string name="permdesc_downloadManager">Омогућује апликацији проступ управљачу преузимања и његову употребу за преузимање датотека. Злонамерне апликације могу то искористити да би ометале преузимања и приступале приватним подацима.</string>
+  <string name="permdesc_downloadManagerAdvanced">Омогућује апликацији приступ напредним функцијама управљача преузимања. Злонамерне апликације могу то искористити да би ометале преузимања и приступале приватним подацима.</string>
+  <string name="permdesc_downloadWithoutNotification">Апликацији омогућује преузимање датотека путем управљача преузимања без приказивања обавештења кориснику.</string>
+  <string name="permdesc_seeAllExternal">Омогућује апликацији да види сва преузимања на SD картици, без обзира на то која их је апликација преузела.</string>
+  <string name="permlab_accessAllDownloads">Приступ свим преузимањима система</string>
+  <string name="permlab_downloadCacheNonPurgeable">Резервиши простор у предмеморији преузимања</string>
+  <string name="permlab_downloadCompletedIntent">Пошаљите обавештења о преузимањима.</string>
+  <string name="permlab_downloadManager">Приступите управљачу за преузимање.</string>
+  <string name="permlab_downloadManagerAdvanced">Напредне функције управљача за преузимање.</string>
+  <string name="permlab_downloadWithoutNotification">преузми датотеке без обавештења</string>
+  <string name="permlab_seeAllExternal">Приказ свих преуз. на USB</string>
+  <string name="privacy_notif_content">Додирните за преглед детаља.</string>
+  <string name="privacy_notif_title">Xunlei Download Accelerator је укључен</string>
+  <string name="privacy_tip_cancel">Одустани</string>
+  <string name="privacy_tip_content">"Користити Xunlei Accelerator за убрзање преузимања? URL а ће бити учитан на Xunlei сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере је ли имате активне претплате на ову услугу."</string>
+  <string name="privacy_tip_ok">У реду</string>
+  <string name="privacy_tip_title">Користити Xunlei Accelerator?</string>
+  <string name="recommended_file_size_download_in_mobile">Користити %s of мобилних података за преузимање ове датотеке?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Користити мобилну везу са подацима за преузимање ове датотеке?</string>
+  <string name="root_downloads">Преузимања</string>
+  <string name="task_already_exist">Задатак већ постоји</string>
+  <string name="warning_tip_cancel">继续下载</string>
+  <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
+  <string name="warning_tip_ok">暂停</string>
+  <string name="warning_tip_title">数据网络切换警告</string>
+  <string name="wifi_recommended_body" formatted="false">"Покретање овог преузимања од %s  може скратити век  батерије и/или узроковати претерану употребу везе са подацима и додатне трошкове.
+
+  
+Додирните %s да бисте преузели при следећем спајању са WLAN мрежом."</string>
+  <string name="wifi_recommended_title">Ставити на чекање за касније преузимање?</string>
+  <string name="wifi_required_body" formatted="false">"Морате употребити WLAN да бисте довршили ово преузимање величине %s . 
+
+Додирните текст %s  да бисте покренули преузимање следећи пут када се повежете са WLAN мрежом."</string>
+  <string name="wifi_required_title">Преузимање је превелико за мрежу оператера.</string>
+</resources>

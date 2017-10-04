@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="agps_network_entries">
+        <item>Кућна мрежа</item>
+        <item>Све мреже</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Сваки дан</item>
+        <item>Радним даном</item>
+        <item>Властито</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Сваки дан</item>
+        <item>Радним даном</item>
+        <item>Властито</item>
+     </string-array>
+     <string-array name="animator_duration_scale_entries">
+        <item>Анимација искључена</item>
+        <item>Анимација размера 0,5x</item>
+        <item>Анимација размера 1x</item>
+        <item>Анимација размера 1,5x</item>
+        <item>Анимација размера 2x</item>
+        <item>Анимација размера 5x</item>
+        <item>Анимација размера 10x</item>
+     </string-array>
+     <string-array name="anr_record_interval_entries">
+        <item>10 сек</item>
+        <item>20 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
+     </string-array>
+     <string-array name="apn_auth_entries">
+        <item>Ништа</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+     </string-array>
+     <string-array name="app_install_location_entries">
+        <item>Интерно меморисање на уређај</item>
+        <item>Преносна SD картица</item>
+        <item>Нека систем одлучи</item>
+     </string-array>
+     <string-array name="app_ops_categories">
+        <item>Локација</item>
+        <item>Лично</item>
+        <item>Слање порука</item>
+        <item>Медији</item>
+        <item>Уређај</item>
+        <item>Покретање</item>
+     </string-array>
+     <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрирање</item>
+        <item>Читање контаката</item>
+        <item>Измена контаката</item>
+        <item>Читање записника позива</item>
+        <item>Измена записника позива</item>
+        <item>Читање календара</item>
+        <item>Измена календара</item>
+        <item>Локација</item>
+        <item>Објављивање обавештења</item>
+        <item>Локација</item>
+        <item>Позив на телефон</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Слање SMS-a/MMS-a</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Измена подешавања</item>
+        <item>Повлачење на врх</item>
+        <item>Приступ обавештењима</item>
+        <item>Камера</item>
+        <item>Снимање звука</item>
+        <item>Репродукција аудиозаписа</item>
+        <item>Читај бафер</item>
+        <item>Измени бафер</item>
+        <item>Медијски дугмићи</item>
+        <item>Аудиофокус</item>
+        <item>Главна јачина</item>
+        <item>Јачина гласа</item>
+        <item>Јачина звона</item>
+        <item>Јачина медија</item>
+        <item>Јачина аларма</item>
+        <item>Јачина обавештења</item>
+        <item>Јачина Bluetootha</item>
+        <item>Задржи у активном стању</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Дохвати статистике о употреби</item>
+        <item>Искључи/укључи микрофон</item>
+        <item>Тоаст прозор</item>
+        <item>Пројектуј медију</item>
+        <item>Активирај VPN</item>
+        <item>Измени WLAN</item>
+        <item>Измени Bluetooth</item>
+        <item>Пошаљи MMS</item>
+        <item>Читај MMS</item>
+        <item>Пиши MMS</item>
+        <item>Ауто покретање</item>
+        <item>Измени Nfc</item>
+        <item>Избриши SMS</item>
+        <item>Избриши MMS</item>
+        <item>Избриши контакте</item>
+        <item>Избриши записник позива</item>
+        <item>Измени податке</item>
+     </string-array>
+     <string-array name="app_ops_permissions">
+        <item>Допусти</item>
+        <item>Игнориши</item>
+        <item>Увек питај</item>
+     </string-array>
+     <string-array name="app_ops_summaries">
+        <item>приближна локација</item>
+        <item>прецизна локација</item>
+        <item>gps</item>
+        <item>вибрирање</item>
+        <item>читање контаката</item>
+        <item>писање контаката</item>
+        <item>читање записника позива</item>
+        <item>писање записника позива</item>
+        <item>читање календара</item>
+        <item>измена календара</item>
+        <item>скенирање WLAN-a</item>
+        <item>обавештења</item>
+        <item>скенирање ћелије</item>
+        <item>позив на телефон</item>
+        <item>читање SMS-a</item>
+        <item>писање SMS-a</item>
+        <item>примање SMS-a</item>
+        <item>примање SMS-a у нужди</item>
+        <item>примање MMS-a</item>
+        <item>примање WAP обавештења</item>
+        <item>слање SMS-a</item>
+        <item>читање ICC SMS-a</item>
+        <item>писање ICC SMS-a</item>
+        <item>измена подешавања</item>
+        <item>повлачење на врх</item>
+        <item>приступ обавештењима</item>
+        <item>камера</item>
+        <item>снимање звука</item>
+        <item>репродукција аудиозаписа</item>
+        <item>читај бафер</item>
+        <item>измени бафер</item>
+        <item>медијски дугмићи</item>
+        <item>аудиофокус</item>
+        <item>главна јачина</item>
+        <item>јачина гласа</item>
+        <item>јачина звона</item>
+        <item>јачина медија</item>
+        <item>јачина аларма</item>
+        <item>јачина обавештења</item>
+        <item>јачина Bluetootha</item>
+        <item>задржи у активном стању</item>
+        <item>праћење локације</item>
+        <item>праћење локације са високом потрошњом енергије</item>
+        <item>Дохватање статистике о употреби</item>
+        <item>искључивање/укључивање микрофона</item>
+        <item>тоаст прозора</item>
+        <item>пројекција медија</item>
+        <item>активирај VPN</item>
+        <item>измена wlan-a</item>
+        <item>измена bluetooth</item>
+        <item>слање MMS-a</item>
+        <item>читање MMS-a</item>
+        <item>писање MMS-a</item>
+        <item>Ауто старт</item>
+        <item>измена nfc-a</item>
+        <item>брисање SMS-a</item>
+        <item>брисање MMS-a</item>
+        <item>брисање контаката</item>
+        <item>брисање записника позива</item>
+        <item>измена података</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Стандардна граница</item>
+        <item>Нема позадинских процеса</item>
+        <item>Највише 1 процес</item>
+        <item>Највише 2 процеса</item>
+        <item>Највише 3 процеса</item>
+        <item>Највише 4 процеса</item>
+     </string-array>
+     <string-array name="back_long_press_timeout">
+        <item>0.5 секунде</item>
+        <item>1 секунда</item>
+        <item>1.5 секунди</item>
+        <item>2 секунде</item>
+     </string-array>
+     <string-array name="battery_indicator_style_entries">
+        <item>Графика</item>
+        <item>Проценат</item>
+        <item>Линија на врху</item>
+     </string-array>
+     <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Неодређено</item>
+     </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>1 сат</item>
+        <item>Никада привремени прекид</item>
+     </string-array>
+     <string-array name="broadcast_locales">
+        <item>SK</item>
+        <item>CS</item>
+        <item>DZ</item>
+        <item>AO</item>
+        <item>AR</item>
+        <item>BH</item>
+        <item>BD</item>
+        <item>BE</item>
+        <item>BO</item>
+        <item>BW</item>
+        <item>BR</item>
+        <item>CM</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>CD</item>
+        <item>CR</item>
+        <item>CI</item>
+        <item>CU</item>
+        <item>DO</item>
+        <item>EC</item>
+        <item>EG</item>
+        <item>SV</item>
+        <item>GQ</item>
+        <item>ET</item>
+        <item>FK</item>
+        <item>FR</item>
+        <item>GF</item>
+        <item>GH</item>
+        <item>GT</item>
+        <item>GY</item>
+        <item>HT</item>
+        <item>HN</item>
+        <item>IN</item>
+        <item>IR</item>
+        <item>IQ</item>
+        <item>IL</item>
+        <item>JM</item>
+        <item>JO</item>
+        <item>KZ</item>
+        <item>KE</item>
+        <item>KW</item>
+        <item>LB</item>
+        <item>LS</item>
+        <item>LY</item>
+        <item>LT</item>
+        <item>MW</item>
+        <item>MR</item>
+        <item>MU</item>
+        <item>MX</item>
+        <item>MA</item>
+        <item>MZ</item>
+        <item>MM</item>
+        <item>NA</item>
+        <item>NP</item>
+        <item>NI</item>
+        <item>NG</item>
+        <item>KP</item>
+        <item>OM</item>
+        <item>PK</item>
+        <item>PS</item>
+        <item>PA</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>PH</item>
+        <item>QA</item>
+        <item>RU</item>
+        <item>RW</item>
+        <item>SA</item>
+        <item>SN</item>
+        <item>SO</item>
+        <item>ZA</item>
+        <item>GS</item>
+        <item>KR</item>
+        <item>ES</item>
+        <item>LK</item>
+        <item>SD</item>
+        <item>SR</item>
+        <item>SZ</item>
+        <item>CH</item>
+        <item>SY</item>
+        <item>TW</item>
+        <item>TZ</item>
+        <item>TH</item>
+        <item>TN</item>
+        <item>TR</item>
+        <item>UG</item>
+        <item>UA</item>
+        <item>AE</item>
+        <item>US</item>
+        <item>UY</item>
+        <item>UZ</item>
+        <item>VE</item>
+        <item>VN</item>
+        <item>YE</item>
+        <item>ZM</item>
+        <item>ZW</item>
+     </string-array>
+     <string-array name="button_light_timeout_entries">
+        <item>1 секунда</item>
+        <item>2 секунде</item>
+        <item>5 секунди</item>
+        <item>10 секунди</item>
+        <item>20 секунди</item>
+        <item>Увек</item>
+     </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>Задато</item>
+        <item>Ништа</item>
+        <item>Обрис</item>
+        <item>Сенка</item>
+        <item>Издигнуто</item>
+        <item>Утиснуто</item>
+     </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>Врло мали</item>
+        <item>Мали</item>
+        <item>Уобичајени</item>
+        <item>Велики</item>
+        <item>Врло велики</item>
+     </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>Употреба задатих подешавања Апликације</item>
+        <item>Бело на црном</item>
+        <item>Црно на белом</item>
+        <item>Жуто на црном</item>
+        <item>Жуто на плавом</item>
+        <item>Прилагођено</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>Задато</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif згуснути</item>
+        <item>Фиксна ширина без serif</item>
+        <item>Serif</item>
+        <item>Фиксна ширина са serifima</item>
+        <item>Једноставно</item>
+        <item>Курзив</item>
+        <item>Мала слова</item>
+     </string-array>
+     <string-array name="change_security_lock_picker">
+        <item>Откључавање лицем</item>
+        <item>Образац</item>
+        <item>PIN</item>
+        <item>Лозинка</item>
+     </string-array>
+     <string-array name="color_picker">
+        <item>Тиркизно плава</item>
+        <item>Плава</item>
+        <item>Индиго</item>
+        <item>Љубичаста</item>
+        <item>Ружичаста</item>
+        <item>Црвена</item>
+     </string-array>
+     <string-array name="common_password_business_names">
+        <item>Закљ. екрана</item>
+        <item>Лозинка приватности</item>
+        <item>Дечији начин</item>
+        <item>Датотеке</item>
+        <item>Закљ. апликација</item>
+        <item>Други простор</item>
+     </string-array>
+     <string-array name="data_usage_data_range">
+        <item>Последњих 30 дана</item>
+        <item>Подеси циклус употребе...</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Искључено</item>
+        <item>Покажи подручија словних исцртавања</item>
+        <item>Прикажи подручија за деутераномалију</item>
+     </string-array>
+     <string-array name="dream_timeout_entries">
+        <item>Никада</item>
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>30 минута</item>
+     </string-array>
+     <string-array name="emergency_tone_entries">
+        <item>Искључено</item>
+        <item>Упозорење</item>
+        <item>Вибрација</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Ништа</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Позивни сноп за функцију glGetError</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Нормалан</item>
+        <item>Средњи</item>
+        <item>Велики</item>
+        <item>Огроман</item>
+        <item>Godzilla</item>
+     </string-array>
+     <string-array name="entries_zen_mode">
+        <item>Искључено</item>
+        <item>Ограничени прекиди</item>
+        <item>Без прекида</item>
+     </string-array>
+     <string-array name="fluency_mode_confirms">
+        <item>Поново покрените уређај за промену ових подешавања?</item>
+        <item>Поново покрените уређај за промену ових подешавања?</item>
+     </string-array>
+     <string-array name="fluency_mode_entries">
+        <item>Сакриј анимације система</item>
+        <item>Прикажи анимације система</item>
+     </string-array>
+     <string-array name="fluency_mode_summaries">
+        <item>"Убрзајте перформансе уређаја""</item>
+        <item>"Mоже успорити перформансе уређаја"</item>
+     </string-array>
+     <string-array name="handy_mode_size_text_entries">
+        <item>4.5 инча</item>
+        <item>4.0 инча</item>
+        <item>3.5 инча</item>
+     </string-array>
+     <string-array name="haptic_feedback_level_entries">
+        <item>Јако</item>
+        <item>Средња</item>
+        <item>Лагано</item>
+     </string-array>
+     <string-array name="haptic_feedback_level_texts">
+        <item>Искључено</item>
+        <item>Лагана</item>
+        <item>Средња</item>
+        <item>Јака</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Никад не употребљавај HDCP проверу</item>
+        <item>Употребљавај HDCP проверу само за DRM садржај</item>
+        <item>Увек употребљавај HDCP проверу</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Никад не проверавај</item>
+        <item>Провери само DRM садржај</item>
+        <item>Увек провери</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Тражи допуштење</item>
+        <item>Допусти</item>
+     </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Тражи допуштења за ризичне апликације</item>
+        <item>Допусти</item>
+     </string-array>
+     <string-array name="led_color_entries">
+        <item>Плава</item>
+        <item>Црвена</item>
+        <item>Жута</item>
+        <item>Зелана</item>
+        <item>Роза</item>
+        <item>Бела</item>
+        <item>Љубичаста</item>
+     </string-array>
+     <string-array name="led_freq_entries">
+        <item>2 секунде</item>
+        <item>3 секунде</item>
+        <item>4 секунде</item>
+        <item>5 секунде</item>
+        <item>6 секунде</item>
+        <item>7 секунде</item>
+        <item>8 секунде</item>
+        <item>9 секунде</item>
+     </string-array>
+     <string-array name="lock_after_timeout_entries">
+        <item>Одмах</item>
+        <item>5 секунди</item>
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>30 минута</item>
+     </string-array>
+     <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Одмах</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+     </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+        <item>Кратко</item>
+        <item>Средње</item>
+        <item>Дуго</item>
+     </string-array>
+     <string-array name="long_press_volume_down_action">
+        <item>Ништа</item>
+        <item>Quick snap начин (фотографија)</item>
+        <item>Quick snap начин (видеозапис)</item>
+        <item>Градски превоз</item>
+     </string-array>
+     <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Неограничено</item>
+     </string-array>
+     <string-array name="media_feedback_level_entries">
+        <item>Јако</item>
+        <item>Средње</item>
+        <item>Лагано</item>
+     </string-array>
+     <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+     </string-array>
+     <string-array name="msd_pc_system">
+        <item>Windows XP и старије</item>
+        <item>Windows Vista,7,8</item>
+        <item>OSX</item>
+        <item>Linux</item>
+     </string-array>
+     <string-array name="msd_pc_system_install_summary">
+        <item>"2.Пратите упутства на екрану"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="msd_pc_system_retry_linux">
+        <item>Коритите алат за инсталирање \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
+        <item>Направите мапу \"mkdir\" /media/mtp</item>
+        <item>Потврдите права скупина</item>
+        <item>Пријавите се поново</item>
+        <item>Приступ уређају mtpfs/media/mtp путем претраживача датотека</item>
+        <item>"Деинсталација уређаја: fusermount -u /media/mtp Напомена: За Ubuntu 8.04!"</item>
+     </string-array>
+     <string-array name="network_speed_slow_summary">
+        <item>Мрежа је спора због превише промета</item>
+        <item>Мрежа је спора због слабе снаге сигнала</item>
+        <item>Премештање…</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Ништа</item>
+        <item>480 p</item>
+        <item>480 p (сигурно)</item>
+        <item>720 p</item>
+        <item>720 p (сигурно)</item>
+        <item>1080 p</item>
+        <item>1080 p (сигурно)</item>
+        <item>4000</item>
+        <item>4000 (сигурно)</item>
+        <item>4000 (повећање резолуције)</item>
+        <item>4000 (повећ. резолуције., сигурно)</item>
+        <item>720 p, 1080 p (двојни екран)</item>
+     </string-array>
+     <string-array name="perm_hips_action">
+        <item>Допусти</item>
+        <item>Питај</item>
+        <item>Одбиj</item>
+     </string-array>
+     <string-array name="phone_call_noise_suppression_title">
+        <item>Смањење буке са једним микрофоном</item>
+        <item>Смањење буке са два микрофона</item>
+     </string-array>
+     <string-array name="pink_panel_led_color_entries">
+        <item>Лила</item>
+        <item>Љубичаста</item>
+        <item>Наранџаста</item>
+        <item>Зелена</item>
+        <item>Магента</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Перформансе</item>
+        <item>Балансирано</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Покретач</item>
+        <item>Позиви</item>
+        <item>Поруке</item>
+        <item>Претраживач</item>
+        <item>Фотоапарат</item>
+        <item>Галерија</item>
+        <item>Музика</item>
+        <item>E-пошта</item>
+        <item>Видео</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Унутрашња меморија</item>
+        <item>Спољна меморија</item>
+     </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+        <item>Поруке</item>
+        <item>фотографије</item>
+        <item>Датотеке</item>
+        <item>Белешке</item>
+        <item>Закљ. аплик.</item>
+        <item>Дечији начин</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Уобичајена</item>
+        <item>Умерена</item>
+        <item>Ниска</item>
+        <item>Критична</item>
+     </string-array>
+     <string-array name="proc_stats_process_states">
+        <item>Постојана</item>
+        <item>Главна активност</item>
+        <item>Важна (у првом плану)</item>
+        <item>Важна (у позадини)</item>
+        <item>Резервна</item>
+        <item>Тешка</item>
+        <item>Услуга (изводи се)</item>
+        <item>Услуга (поновно покретање)</item>
+        <item>Пријемник</item>
+        <item>Кућа</item>
+        <item>Последња активност</item>
+        <item>Кеш меморија (активност)</item>
+        <item>Кеш меморија (клијент активности)</item>
+        <item>Кеш меморија (празна)</item>
+     </string-array>
+     <string-array name="ram_states">
+        <item>уобичајено</item>
+        <item>умерено</item>
+        <item>ниско</item>
+        <item>критично</item>
+     </string-array>
+     <string-array name="screen_button_style">
+        <item>Левак</item>
+        <item>Дешњак</item>
+     </string-array>
+     <string-array name="screen_color_title">
+        <item>Топло</item>
+        <item>Стандардно</item>
+        <item>Хладно</item>
+     </string-array>
+     <string-array name="screen_key_long_press_action">
+        <item>Ништа</item>
+        <item>Прикажи недавне апликације</item>
+        <item>Покрени управнике</item>
+        <item>Покрени Google now</item>
+        <item>Затвори тренутну апликацију</item>
+        <item>Покрени Брзо претраживање</item>
+        <item>Прикажи Мени</item>
+     </string-array>
+     <string-array name="screen_key_long_press_timeout">
+        <item>0.5 секунде</item>
+        <item>1 секунде</item>
+        <item>1.5 секунди</item>
+        <item>2 секунде</item>
+     </string-array>
+     <string-array name="screen_key_position_action">
+        <item>Тастер Мени лево, Тастер Назад десно</item>
+        <item>Тастер Назад лево, Тастер Мени десно</item>
+     </string-array>
+     <string-array name="screen_key_press_action">
+        <item>Прикажи недавне апликације</item>
+        <item>Прикажи мени</item>
+     </string-array>
+     <string-array name="screen_optimize_summary">
+        <item>Оптимизација контраста за светло</item>
+        <item>"Повећање контраста екрана"</item>
+        <item>Контраст ће остати костантан</item>
+     </string-array>
+     <string-array name="screen_optimize_title">
+        <item>Аутоматски контраст</item>
+        <item>Повећани контраст</item>
+        <item>Стандардно</item>
+     </string-array>
+     <string-array name="screen_resolution_entries">
+        <item>Ultrahigh (2K)</item>
+        <item>Нормално (720P)</item>
+     </string-array>
+     <string-array name="screen_saturation_title">
+        <item>Брилијантно</item>
+        <item>Стандардно</item>
+     </string-array>
+     <string-array name="screen_timeout_entries">
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>30 минута</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Постави питање</item>
+        <item>Не допуштај никада</item>
+        <item>Допусти увек</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>64 KB по баферу.</item>
+        <item>256 KB по баферу.</item>
+        <item>1 MB по баферу.</item>
+        <item>4 MB по баферу.</item>
+        <item>16 MB по баферу.</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>Употреби Далвик</item>
+        <item>Употреби ART</item>
+        <item>Употреби верзију ART-a за уклањање програмских грешака</item>
+     </string-array>
+     <string-array name="select_runtime_titles">
+        <item>Далвик</item>
+        <item>ART</item>
+        <item>ART (уклањање програм. грешака)</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Искључено</item>
+        <item>Плаво не правокутно подручије исечка</item>
+        <item>Истакни тестиране наредбе зеленом</item>
+     </string-array>
+     <string-array name="sim_card_data_range">
+        <item>Задње 4 функције</item>
+        <item>Прве 4 функције</item>
+     </string-array>
+     <string-array name="slideshow_time_entries">
+        <item>5 минута</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>1 сат</item>
+        <item>Неограничено</item>
+     </string-array>
+     <string-array name="startup_hips_action">
+        <item>Допусти</item>
+        <item>Одбиj</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Kombinirano</item>
+        <item>Odvojeno</item>
+     </string-array>
+     <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азија</item>
+        <item>Аустралија</item>
+        <item>Пацифички</item>
+        <item>Све</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Искључено</item>
+        <item>На екрану у облику црта</item>
+        <item>U naredbi adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Анимација искључена</item>
+        <item>Анимација размера 0,5x</item>
+        <item>Анимација размера 1x</item>
+        <item>Анимација размера 1,5x</item>
+        <item>Анимација размера 2x</item>
+        <item>Анимација размера 5x</item>
+        <item>Анимација размера 10x</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
+        <item>Јако ниско</item>
+        <item>Ниски</item>
+        <item>Нормално</item>
+        <item>Високи</item>
+        <item>Врло високо</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Јако споро</item>
+        <item>Споро</item>
+        <item>Нормални</item>
+        <item>Брзо</item>
+        <item>Брже</item>
+        <item>Врло брзо</item>
+        <item>Убрзано</item>
+        <item>Врло убрзано</item>
+        <item>Најбрже</item>
+     </string-array>
+     <string-array name="tts_rate_xunfei_entries">
+        <item>Јако споро</item>
+        <item>Споро</item>
+        <item>Нормални</item>
+        <item>Брзо</item>
+        <item>Брже</item>
+     </string-array>
+     <string-array name="usage_stats_display_order_types">
+        <item>Време употребе</item>
+        <item>Покрени бројање</item>
+        <item>Назив апликације</item>
+     </string-array>
+     <string-array name="usb_connection_mode_entries">
+        <item>Питај код везе</item>
+        <item>Само пуњење</item>
+        <item>Учитај SD картицу</item>
+     </string-array>
+     <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Human</item>
+        <item>Neanderthal</item>
+        <item>Chimp</item>
+        <item>Monkey</item>
+     </string-array>
+     <string-array name="vpn_states">
+        <item>Није повезано</item>
+        <item>Покреће се…</item>
+        <item>Повезивање…</item>
+        <item>Повезано</item>
+        <item>Привремени прекид</item>
+        <item>Неуспешно</item>
+     </string-array>
+     <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN са унапред дељеним кључевима</item>
+        <item>L2TP/IPSec VPN са сертиикатима</item>
+        <item>IPSec VPN са унапред дељеним кључевима и Xauth аутентификацијом</item>
+        <item>IPSec VPN са сертификатима и Xauth аутентификацијом</item>
+        <item>IPSec VPN са сертификатима и хибридном аутентификацијом</item>
+     </string-array>
+     <string-array name="wfd_status">
+        <item>Уређај повезан, креирам сесију…</item>
+        <item>Сесија креирана.</item>
+        <item>Пуцање сесије…</item>
+        <item>Сесија неуспешна.</item>
+        <item>Истекло време, покушавам поново…</item>
+        <item>Уређај повезан</item>
+     </string-array>
+     <string-array name="whetstone_level_entries">
+        <item>Искључено</item>
+        <item>Ниско</item>
+        <item>Средње</item>
+        <item>Високо</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices">
+        <item>WLAN преферирано</item>
+        <item>Мрежа преферирано</item>
+     </string-array>
+     <string-array name="wifi_connect_type_entries">
+        <item>Аутоматско повезивање</item>
+        <item>Ручно повезивање</item>
+        <item>Увек питај</item>
+     </string-array>
+     <string-array name="wifi_frequency_band_entries">
+        <item>Аутоматски</item>
+        <item>Само 5 GHz</item>
+        <item>Само 2,4 GHz</item>
+     </string-array>
+     <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статично</item>
+     </string-array>
+     <string-array name="wifi_p2p_status">
+        <item>Повезано</item>
+        <item>Позван</item>
+        <item>Неуспешно</item>
+        <item>Доступан</item>
+        <item>Изван домета</item>
+     </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+        <item>Гумб</item>
+        <item>PIN са паралелног уређаја</item>
+        <item>PIN са овог уређаја</item>
+     </string-array>
+     <string-array name="wifi_peap_phase2_entries">
+        <item>Ниједан</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_phase2_entries">
+        <item>Ништа</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_proxy_settings">
+        <item>Ништа</item>
+        <item>Ручно</item>
+        <item>Proxy Аутоматска Конфигурација</item>
+     </string-array>
+     <string-array name="wifi_signal">
+        <item>Лоше</item>
+        <item>Солидан</item>
+        <item>Добро</item>
+        <item>Одлично</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+        <item>Увек</item>
+        <item>Само када је укључено</item>
+        <item>Никада (повећава употребу података)</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Увек</item>
+        <item>Само кад је укључено</item>
+        <item>Никад</item>
+     </string-array>
+     <string-array name="wifi_ssid_type_entries">
+        <item>Повежи аутоматски</item>
+        <item>Повежи ручно</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Скенирање…</item>
+        <item>Повезивање…</item>
+        <item>Аутентификација…</item>
+        <item>Хватање IP адресе…</item>
+        <item>Повезано</item>
+        <item>Обустављено</item>
+        <item>Искључивање…</item>
+        <item>Нисте повезани</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Привремено избегавање лоше везе</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Скенирање…</item>
+        <item>Повезивање на мрежу %1$s…</item>
+        <item>Аутентификација са мрежом %1$s…</item>
+        <item>Хватање IP адресе са мреже %1$s…</item>
+        <item>Повеано са мрежом %1$s</item>
+        <item>Обустављено</item>
+        <item>Искључивање из мреже %1$s…</item>
+        <item>Нисте повезани</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Привремено избегавање лоше везе</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Анимација искључена</item>
+        <item>Анимација размера 0,5x</item>
+        <item>Анимација размера 1x</item>
+        <item>Анимација размера 1,5x</item>
+        <item>Анимација размера 2x</item>
+        <item>Анимација размера 5x</item>
+        <item>Анимација размера 10x</item>
+     </string-array>
+</resources>

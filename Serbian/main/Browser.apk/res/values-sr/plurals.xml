@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="adblock_rules_number_text">
+        <item quantity="other">Блокирано ставки: %d</item>
+        <item quantity="one">%d ставка блокирана</item>
+     </plurals>
+     <plurals name="find_on_page_matches">
+        <item quantity="other">%d подударања</item>
+        <item quantity="one">%d подударност</item>
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Последњих %d дана</item>
+        <item quantity="one">Јуче</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d од %2$d</item>
+        <item quantity="one">1 подударност</item>
+     </plurals>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">Одабрано: %1$d</item>
+        <item quantity="one">Одабрано: %1$d</item>
+     </plurals>
+     <plurals name="video_download_clear_info">
+        <item quantity="other">Успешно уклоњено %1$d видеозаписа.</item>
+        <item quantity="one">Успешно уклоњен %1$d видеозапис.</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Избрисати %1$d видеозаписа?</item>
+        <item quantity="one">Избрисати %1$d видеозапис?</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">Успешно уклоњено %1$d ставки из историје.</item>
+        <item quantity="one">Успешно уклоњена %1$d ставка из историје.</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Избрисати %1$d ставки из историје?</item>
+        <item quantity="one">Избрисати %1$d ставку из историје?</item>
+     </plurals>
+     <plurals name="video_subtitle_last_message">
+        <item quantity="other">Преостало је je %d минута</item>
+        <item quantity="one">Преостало је 1 минут</item>
+     </plurals>
+</resources>

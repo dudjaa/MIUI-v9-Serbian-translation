@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Аутом.</item>
+        <item>Вертикално</item>
+        <item>Водоравно</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Утишај</item>
+        <item>Микрофон</item>
+		<item>Звучник</item>
+    </string-array>
+</resources>

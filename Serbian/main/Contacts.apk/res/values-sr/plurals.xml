@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">пре 1 сат</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 сат</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За пола сата</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d мин</item>
+        <item quantity="one">за 1 мин</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Управо сад</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">пре %d мин</item>
+        <item quantity="one">пре 1 мин</item>
+     </plurals>
+     <plurals name="batch_delete_msg">
+        <item quantity="other">Избрисати контакте (%d)?</item>
+        <item quantity="one">Избрисати %d контакт?</item>
+     </plurals>
+     <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Избрисати контакте (%d)</item>
+        <item quantity="one">Избриши контакт</item>
+     </plurals>
+     <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Звони оволико пута (%d)</item>
+        <item quantity="one">Звони оволико пута (%d)</item>
+     </plurals>
+     <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Оволико контаката (%d) није синхр."</item>
+        <item quantity="one">"1 контакт није синхронизован"</item>
+     </plurals>
+     <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Избрисати контакте (%d) са SIM картице?</item>
+        <item quantity="one">Избрисати контакт (%d) са SIM картице?</item>
+     </plurals>
+     <plurals name="contacts_count">
+        <item quantity="other">Контаката %1$d</item>
+        <item quantity="one">%1$d контакт</item>
+     </plurals>
+     <plurals name="device_import_done_toast">
+        <item quantity="other">Увезено контаката: %1$d</item>
+        <item quantity="one">%1$d контакт увезен</item>
+     </plurals>
+     <plurals name="dlg_add_blacklist">
+        <item quantity="other">Блокирати ове бројеве телефона (%1$d)?</item>
+        <item quantity="one">Блокирати овај број телефона?</item>
+     </plurals>
+     <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Одблокирати ове бројеве телефона (%1$d)?</item>
+        <item quantity="one">Одблокирати овај број телефона?</item>
+     </plurals>
+     <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Копирано контаката (%d)</item>
+        <item quantity="one">Копиран %d контакт</item>
+     </plurals>
+     <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM картица може сачувати оволико контаката (%d).</item>
+        <item quantity="one">SIM картица може сачувати(%d) контакт.</item>
+     </plurals>
+     <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  контаката додато"</item>
+        <item quantity="one">%1$d контакт додат</item>
+     </plurals>
+     <plurals name="group_copy_success_toast">
+        <item quantity="other">Копирано %1$d контаката</item>
+     </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Особа: %1$d</item>
+        <item quantity="one">Особа: %1$d</item>
+     </plurals>
+     <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Укупно бројева: %1$d</item>
+        <item quantity="one">%1$d број</item>
+     </plurals>
+     <plurals name="group_move_success_toast">
+        <item quantity="other">Премештено %1$d контаката</item>
+     </plurals>
+     <plurals name="hint_account_contacts">
+        <item quantity="other">Пронађено %1$d</item>
+        <item quantity="one">Пронађен %1$d</item>
+     </plurals>
+     <plurals name="hint_search_contacts">
+        <item quantity="other">Контаката: %1$d </item>
+        <item quantity="one">%1$d контакт</item>
+     </plurals>
+     <plurals name="hint_search_emails">
+        <item quantity="other">Контаката са e-поштом %1$d</item>
+        <item quantity="one">1 контакт s e-поштом</item>
+     </plurals>
+     <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Бројева: %1$d</item>
+        <item quantity="one">%1$d број</item>
+     </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="other">%d пронађено</item>
+        <item quantity="one">1 пронађен</item>
+     </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="other">Kонтаката: %d</item>
+        <item quantity="one">1 контакт</item>
+     </plurals>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Бр. контаката са бројевима телефона: %d</item>
+        <item quantity="one">1 контакт са бројем телефона</item>
+     </plurals>
+     <plurals name="merge_info">
+        <item quantity="other">обједињено од %0$d извора</item>
+        <item quantity="one">није обједињено</item>
+     </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="other">Говорних порука: %1$d"</item>
+        <item quantity="one">Говорна пошта</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d одабрано</item>
+        <item quantity="zero">%1$d одабрано</item>
+        <item quantity="one">%1$d одабран</item>
+     </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d особе(а) са налога %2$s</item>
+        <item quantity="one">%1$d особа са налога %2$s</item>
+     </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="other">Група: %0$d</item>
+        <item quantity="one">1 група</item>
+     </plurals>
+     <plurals name="number_of_items_available">
+        <item quantity="other">Преостало %1$d</item>
+        <item quantity="one">%1$d преостао</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">"Одабране ставке: %1$d"</item>
+        <item quantity="one">%1$d одабран</item>
+     </plurals>
+     <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d фаворита</item>
+        <item quantity="one">%1$d фаворит</item>
+     </plurals>
+     <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d фаворита</item>
+        <item quantity="one">%1$d фаворит</item>
+     </plurals>
+     <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Недавних контаката: %1$d</item>
+        <item quantity="one">1 недавни контакт</item>
+     </plurals>
+     <plurals name="pick_recent_list_title">
+        <item quantity="other">Недавних контаката: %1$d</item>
+        <item quantity="one">1 недавни контакт</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="other">%d пронађено</item>
+        <item quantity="one">1 пронађен</item>
+     </plurals>
+     <plurals name="smart_group_member_count">
+        <item quantity="other">%d људи</item>
+        <item quantity="one">1 особа</item>
+     </plurals>
+     <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d особа</item>
+        <item quantity="one">%1$d особа</item>
+     </plurals>
+</resources>

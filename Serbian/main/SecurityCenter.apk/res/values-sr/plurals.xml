@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дана "</item>
+        <item quantity="one">"%d дан "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d сати "</item>
+        <item quantity="one">"%d сат "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин "</item>
+        <item quantity="one">"%d мин "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">Аплик. са Аутом. покретањем: %d</item>
+        <item quantity="one">Аплик. са Аутом. покретањем: %d</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"Аплик. без Аутом. покретањем: %d"</item>
+        <item quantity="one">"Аплик. без Аутом. покретањем: %d"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">Допуштења: %d</item>
+        <item quantity="one">Допуштење: %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">Апликација: %d</item>
+        <item quantity="one">Апликација: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">Апликација са ROOT приступом: %d</item>
+        <item quantity="one">Апликација са ROOT приступом: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"Апликација без ROOT приступа: %d"</item>
+        <item quantity="one">"Апликација без ROOT приступа: %d"</item>
+    </plurals>
+	<plurals name="summary_app_update">
+        <item quantity="other">Ажурирања доступна са апл.: %d.</item>
+        <item quantity="one">Ажурирање доступно за апл.: %d.</item>
+    </plurals>
+</resources>

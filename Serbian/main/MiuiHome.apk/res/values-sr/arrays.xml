@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Класично клизање (без пребацивања)</item>
+        <item>Унакрсно утишавање</item>
+        <item>Тумбање</item>
+        <item>Страница</item>
+        <item>Водопад</item>
+        <item>Ротација</item>
+        <item>Коцка</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Задате поставке теме</item>
+        <item>Средина</item>
+        <item>Лево</item>
+        <item>Десно</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Задато</item>
+        <item>Класично</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Ведро</item>
+        <item>Облачно</item>
+        <item>Измаглица</item>
+        <item>Магловито</item>
+        <item>Тешка кишна олуја</item>
+        <item>Кишна олуја</item>
+        <item>Врло тешки пљусак</item>
+        <item>Олуја са грмљавином</item>
+        <item>Пљусак</item>
+        <item>Тешки пљусак</item>
+        <item>Киша</item>
+        <item>Лагана киша</item>
+        <item>Поледица</item>
+        <item>Снежна олуја</item>
+        <item>Наноси снега</item>
+        <item>Велика количина снега</item>
+        <item>Снег</item>
+        <item>Мала количина снега</item>
+        <item>Снажна пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Слаба бешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Туча</item>
+        <item>Лебдећа прашина</item>
+        <item>Измаглица</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Теме</item>
+        <item>Виџети</item>
+        <item>Позадине</item>
+        <item>Ефекти</item>
+        <item>Распоред</item>
+    </string-array>
+</resources> 

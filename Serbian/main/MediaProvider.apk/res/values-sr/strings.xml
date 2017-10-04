@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Простор за чување на медију</string>
+  <string name="artist_label">Извођач</string>
+  <string name="root_audio">Аудио</string>
+  <string name="root_images">Слике</string>
+  <string name="root_videos">Видеозаписи</string>
+  <string name="uid_label">Медији</string>
+  <string name="upgrade_msg">Надоградња базе података медија.</string>
+</resources>

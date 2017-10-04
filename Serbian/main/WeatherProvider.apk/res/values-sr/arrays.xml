@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Сунчано</item>
+        <item>Наоблачење</item>
+        <item>Облачно</item>
+        <item>Магловито</item>
+        <item>Тешки пљускови</item>
+        <item>Пљусак</item>
+        <item>Пљускови</item>
+        <item>Грмљавина</item>
+        <item>Пљусак</item>
+        <item>Јака киша</item>
+        <item>Умерена киша</item>
+        <item>Слаба киша</item>
+        <item>Суснежица</item>
+        <item>Мећава</item>
+        <item>Снег</item>
+        <item>Јак снег</item>
+        <item>Умерен снег</item>
+        <item>Слаб снег</item>
+        <item>Пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Ветровито</item>
+        <item>Град</item>
+        <item>Прашина</item>
+        <item>Град</item>
+        <item>Ледена киша</item>
+        <item>Нема података</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Најслабије</item>
+        <item>Слабије</item>
+        <item>Средње</item>
+        <item>Снажно</item>
+        <item>Најснажније</item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Надимак</item>
+        <item>Телефон</item>
+        <item>E-пошта</item>
+        <item>Организација</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>Рођендан</item>
+        <item>Web страница</item>
+        <item>Адреса</item>
+        <item>Белешка</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Примљено</item>
+        <item>Послато</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Поруке</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Поруке</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунде</item>
+        <item>3 секунде</item>
+        <item>4 секунде</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>остало</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Увек</item>
+        <item>Само у бешумном начину</item>
+        <item>Никад</item>
+    </string-array>
+	<string-array name="entries_sms_validity_period">
+        <item>Није подешено</item>
+        <item>1 сат</item>
+        <item>6 сати</item>
+        <item>12 сати</item>
+        <item>1 дан</item>
+        <item>Максимално</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Максимално</item>
+        <item>2 дана</item>
+    </string-array>
+</resources>

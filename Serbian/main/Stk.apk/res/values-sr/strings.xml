@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="alphabet">Абецеда</string>
+     <string name="app_name">SIM Алат</string>
+     <string name="app_name2">SIM Алат2</string>
+     <string name="app_name3">SIM Алат3</string>
+     <string name="button_cancel">Одустани</string>
+     <string name="button_no">Не</string>
+     <string name="button_ok">У реду</string>
+     <string name="button_yes">Да</string>
+     <string name="digits">Цифре (0-9, *, #, +)</string>
+     <string name="disable_app">Онемогућено</string>
+     <string name="enable_app">Омогућено</string>
+     <string name="help">Помоћ</string>
+     <string name="menu_back">Назад</string>
+     <string name="menu_end_session">Заврши сесију</string>
+     <string name="no_sim_card_inserted">Убаците SIM за покретање SIM Алата.</string>
+     <string name="service_name">Назив услуге</string>
+     <string name="sim_type_sim_name">SIM Алат</string>
+     <string name="sim_type_uim_name">UIM Алат</string>
+     <string name="sim_type_usim_name">USIM Алат</string>
+     <string name="stk_app_state">Стање апликације</string>
+     <string name="stk_dialog_accept">ДА</string>
+     <string name="stk_dialog_reject">НЕ</string>
+     <string name="stk_dialog_title">SIM Алат</string>
+     <string name="stk_intent_permission">Допусти STK намере</string>
+     <string name="stk_no_service">Нема доступне услуге</string>
+</resources>

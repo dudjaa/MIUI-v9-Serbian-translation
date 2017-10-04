@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d обавештења у Првом простору</item>
+        <item quantity="one">%d обавештење у Првом простору</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d обавештења у Другом простору</item>
+        <item quantity="one">%d обавештење у Другом простору</item>
+    </plurals>
+</resources>

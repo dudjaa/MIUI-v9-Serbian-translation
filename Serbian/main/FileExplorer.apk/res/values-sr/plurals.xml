@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d датотека од WeChat привремених видеозаписа ће бити избрисани. Израдити сигурносну копију?</item>
+        <item quantity="zero">%1$d датотека од WeChat привремених видеозаписа ће бити избрисани. Израдити сигурносну копију?</item>
+        <item quantity="one">%1$d датотека од WeChat привремених видеозаписа ће бити избрисани. Израдити сигурносну копију?</item>
+        <item quantity="two">%1$d датотеке од WeChat привремених видеозаписа ће бити избрисане. Израдити сигурносну копију?</item>
+        <item quantity="few">%%1$d датотека од WeChat привремених видеозаписа ће бити избрисани. Израдити сигурносну копију?</item>
+        <item quantity="many">%1$d датотека од WeChat привремених видеозаписа ће бити избрисани. Израдити сигурносну копију?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Примљено датотека (%1$d) од WeChat</item>
+        <item quantity="zero">Примљено датотека(%1$d) од WeChat</item>
+        <item quantity="one">Примљена датотека (%1$d) од WeChat</item>
+        <item quantity="two">Примљене датотеке (%1$d) од WeChat</item>
+        <item quantity="few">Примљено датотека (%1$d) од WeChat</item>
+        <item quantity="many">Примљено датотека (%1$d) од WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d датотека од WeChat видеозаписа ће истећи</item>
+        <item quantity="zero">%1$d датотека од WeChat видеозаписа ће истећи</item>
+        <item quantity="one">%1$d датотека од WeChat видеозаписа ће истећи</item>
+        <item quantity="two">%1$d датотеке од WeChat видеозаписа ће истећи</item>
+        <item quantity="few">%1$d датотека од WeChat видеозаписа ће истећи</item>
+        <item quantity="many">%1$d датотека од WeChat видеозаписа ће истећи</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+         <item quantity="other">Избрисати(%1$d) датотеке</item>
+         <item quantity="zero">Избрисати(%1$d) датотеке</item>
+         <item quantity="one">Избрисати(%1$d) датотеку</item>
+         <item quantity="two">Избрисати(%1$d) датотеке</item>
+         <item quantity="few">Избрисати(%1$d) датотеке</item>
+         <item quantity="many">Избрисати(%1$d) датотеке</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+         <item quantity="other">" и (%1$d) мапа ?"</item>
+         <item quantity="zero">" и (%1$d) мапа ?"</item>
+         <item quantity="one">" и (%1$d) мапу ?"</item>
+         <item quantity="two">" и (%1$d) мапе ?"</item>
+         <item quantity="few">" и (%1$d) мапа ?"</item>
+         <item quantity="many">" и (%1$d) мапа ?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+         <item quantity="other">Ставова: %d</item>
+         <item quantity="zero">Ставова: %d</item>
+         <item quantity="one">Ставова: %d</item>
+         <item quantity="two">Ставова: %d</item>
+         <item quantity="few">Ставова: %d</item>
+         <item quantity="many">Ставова: %d</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+         <item quantity="other">Преостало (%1$d) датотека за преузимање</item>
+         <item quantity="zero">Преостало (%1$d) датотека за преузимање</item>
+         <item quantity="one">Преостало (%1$d) датотека за преузимање</item>
+         <item quantity="two">Преостало (%1$d) датотеке за преузимање</item>
+         <item quantity="few">Преостало (%1$d) датотека за преузимање</item>
+         <item quantity="many">Преостало (%1$d) датотека за преузимање</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+         <item quantity="other">Преостало (%1$d) датотека за учитавање</item>
+         <item quantity="zero">Преостало (%1$d) датотека за учитавање</item>
+         <item quantity="one">Преостало (%1$d) датотека за учитавање</item>
+         <item quantity="two">Преостало (%1$d) датотеке за учитавање</item>
+         <item quantity="few">Преостало (%1$d) датотека за учитавање</item>
+         <item quantity="many">Преостало (%1$d) датотека за учитавање</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Одабрано (%1$d)</item>
+        <item quantity="zero">Одабрано (%1$d)</item>
+        <item quantity="one">Одабрано (%1$d)</item>
+        <item quantity="two">Одабрано (%1$d)</item>
+        <item quantity="few">Одабрано (%1$d)</item>
+        <item quantity="many">Одабрано (%1$d)</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+	<plurals name="search_head_hint_app">
+        <item quantity="other">Датотека (%2$d) апл. %1$s</item>
+        <item quantity="zero">Датотека (%2$d) апл. %1$s</item>
+        <item quantity="one">Датотека (%2$d) апл. %1$s</item>
+        <item quantity="two">Датотеке (%2$d) апл. %1$s</item>
+        <item quantity="few">Датотека (%2$d) апл. %1$s</item>
+        <item quantity="many">Датотека(%2$d) aпл. %1$s</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Датотека %1$s (%2$d)</item>
+        <item quantity="zero">Датотека %1$s (%2$d)</item>
+        <item quantity="one">Датотека %1$s (%2$d)</item>
+        <item quantity="two">Датотеке %1$s (%2$d)</item>
+        <item quantity="few">Датотека %1$s (%2$d)</item>
+        <item quantity="many">Датотека %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Датотека %1$s (%2$d)</item>
+        <item quantity="zero">Датотека %1$s (%2$d)</item>
+        <item quantity="one">Датотека %1$s (%2$d)</item>
+        <item quantity="two">Датотеке %1$s (%2$d)</item>
+        <item quantity="few">Датотека %1$s (%2$d)</item>
+        <item quantity="many">Датотека %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Пре %1$d мин.</item>
+        <item quantity="zero">Пре %1$d мин.</item>
+        <item quantity="one">Пре %1$d мин.</item>
+        <item quantity="two">Пре %1$d мин.</item>
+        <item quantity="few">Пре %1$d мин.</item>
+        <item quantity="many">Пре %1$d мин.</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Пре %1$d сати</item>
+        <item quantity="zero">Пре %1$d сати</item>
+        <item quantity="one">Пре %1$d сати</item>
+        <item quantity="two">Пре %1$d сати</item>
+        <item quantity="few">Пре %1$d сати</item>
+        <item quantity="many">Пре %1$d сати</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Пре %1$d дана</item>
+        <item quantity="zero">Пре %1$d дана</item>
+        <item quantity="one">Пре %1$d дана</item>
+        <item quantity="two">Пре %1$d дана</item>
+        <item quantity="few">Пре %1$d дана</item>
+        <item quantity="many">Пре %1$d дана</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Пронађено (%1$d) нових датотека</item>
+        <item quantity="zero">Пронађено(%1$d) нових датотека</item>
+        <item quantity="one">Пронађена (%1$d) нова датотека</item>
+        <item quantity="two">Пронађене (%1$d) нове датотеке</item>
+        <item quantity="few">Пронађено (%1$d)нових датотека</item>
+        <item quantity="many">Пронађено (%1$d) нових датотека</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Примљено датотека (%1$d) апл. %2$s</item>
+        <item quantity="zero">Примљено датотека (%1$d) апл.%2$s</item>
+        <item quantity="one">Примљена датотека (%1$d) апл. %2$s</item>
+        <item quantity="two">Примљене датотеке (%1$d) апл. %2$s</item>
+        <item quantity="few">Примљено датотека (%1$d) апл. %2$s</item>
+        <item quantity="many">Примљено датотека (%1$d) апл. %2$s</item>
+    </plurals>
+	<plurals name="file_count">
+	<item quantity="other">Ставки: %d</item>
+	<item quantity="zero">Ставки: %d</item>
+	<item quantity="one">Ставки: %d</item>
+	<item quantity="two">Ставки: %d</item>
+	<item quantity="few">Ставки: %d</item>
+	<item quantity="many">Ставки: %d</item>
+	</plurals>
+</resources> 

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Одложи аларм за %d мин.</item>
+        <item quantity="one">Одложи аларм за %d мин.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Аларм ће се искључити након %d минута</item>
+        <item quantity="one">Аларм ће се искључити након %d минута</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d секунда</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Одложи за %d мин.</item>
+        <item quantity="one">Одложи за %d мин.</item>
+    </plurals>
+     <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d caти "</item>
+        <item quantity="one">"%1$d caт "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d мин. "</item>
+        <item quantity="one">"%1$d мин. "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+    </plurals>
+</resources> 

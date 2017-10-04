@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Задати начин</item>
+        <item>Скривени начин</item>
+        <item>Начин Читања</item>
+        <item>Мултимедија</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Апликација се извршава у првом плану</item>
+        <item>Екран укључен</item>
+        <item>Екран искључен</item>
+        <item>Екран искључен преко 10 мин.</item>
+        <item>Цели екран</item>
+        <item>Излаз из целог екрана</item>
+        <item>Апликација се извршава у позадини</item>
+        <item>Уређај се пуни</item>
+        <item>Уређај се не пуни</item>
+        <item>Уређај је у стању мировања</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Макс. осветљење екрана</item>
+        <item>Макс. CPU фреквенција</item>
+        <item>Начин екрана</item>
+        <item>Коришћење CPU-a</item>
+        <item>Веза са подацима</item>
+		<item>Локација</item>
+        <item>Прво обавештење</item>
+        <item>Обавештење на закључаном екрану</item>
+		<item>Ограничи позадинску везу са подацима</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Ништа</item>
+        <item>Задато</item>
+        <item>Слике</item>
+        <item>Филм</item>
+        <item>Штедња батерије</item>
+        <item>Балансирано</item>
+        <item>Перформансе</item>
+         <item>Укључи</item>
+        <item>Искључи</item>
+        <item>Одмах</item>
+        <item>Након 10 мин.</item>
+        <item>Након 30 мин.</item>
+        <item>Када је екран искључен</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Одабрано</item>
+        <item>Неодабрано</item>
+        <item>Остало</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 x</item>
+        <item>2 x</item>
+        <item>3 x</item>
+        <item>5 x</item>
+        <item>10 x</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Примљено</item>
+        <item>Послато</item>
+    </string-array>
+</resources>

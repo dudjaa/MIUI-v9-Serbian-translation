@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Симљено позива (%d).</item>
+        <item quantity="one">1 позив снимљен.</item>
+    </plurals>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нема везе са подацима %s мин</item>
+        <item quantity="one">Нема везе са подацима %s мин</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон ће бити у режиму хитног повратног позива% с мин. За то се време не може употребљавати ниједна апликација којој је потребна веза за пренос података. Желите ли изаћи сада?</item>
+        <item quantity="one">Телефон ће бити у режиму хитног повратног позива% с мин. За то се време не може употребљавати ниједна апликација којој је потребна веза за пренос података. Желите ли изаћи сада?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Одабрана радња није доступна у режиму хитног повратног позива. Телефон ће бити у том начину рада% с мин. Желите ли изаћи садa?</item>
+        <item quantity="one">Одабрана радња није доступна у режиму хитног повратног позива. Телефон ће бити у том начину рада% с мин. Желите ли изаћи сада?</item>
+    </plurals>
+</resources>

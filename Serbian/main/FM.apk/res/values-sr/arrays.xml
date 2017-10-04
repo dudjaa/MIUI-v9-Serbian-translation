@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presetlist_edit_category">
+        <item>Преименуј</item>
+        <item>Одабери аутоматски</item>
+        <item>Уклонити</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Добити параметре странице</item>
+        <item>Добити параметре станице поновити 20 пута</item>
+        <item>Добити параметре претраживања станице</item>
+        <item>Добити параметре FM Фреквенција</item>
+        <item>Конфигурација параметара FM претраживања</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Подеси FM RSSI Delta</item>
+        <item>Поставите Границу сигнала</item>
+        <item>RF Статистика</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Додатне опције</item>
+        <item>Конфигурација параметара FM претраживања</item>
+        <item>RF Статистика</item>
+    </string-array>
+</resources>

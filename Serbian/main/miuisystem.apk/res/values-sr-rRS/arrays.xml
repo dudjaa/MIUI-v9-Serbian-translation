@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="boot_msg_text">
+        <item>-==MIUI Србија==-</item>
+        <item>-==MIUI Србија==-</item>
+        <item>-==Roaming Electronics==-</item>
+        <item>Инсталирање у току.</item>
+        <item>Инсталирање у току..</item>
+        <item>Roaming Electronics</item>
+        <item>Оптимизовање апликација...</item>
+        <item>Напишите своје примедбе на miui.website</item>
+     </string-array>
+     <string-array name="cta_permission_names">
+        <item>приступити мрежи</item>
+        <item>читање SMS-a</item>
+        <item>измена SMS-a</item>
+        <item>примање SMS-a</item>
+        <item>слање SMS-a</item>
+        <item>позив на телефон</item>
+        <item>читање контаката</item>
+        <item>измена контаката</item>
+        <item>читање записа позива</item>
+        <item>измена записа позива</item>
+        <item>приступити камери</item>
+        <item>приступити локацији</item>
+     </string-array>
+</resources>

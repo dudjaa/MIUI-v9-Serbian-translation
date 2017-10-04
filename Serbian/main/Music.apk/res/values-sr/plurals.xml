@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Избрисати %d пописа песама?</item>
+        <item quantity="one">Избрисати %d попис песама?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d извођача</item>
+        <item quantity="one">%d извођач</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d бендова</item>
+        <item quantity="one">%d бенд</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Репродукција ће се зауставити за %d мин.</item>
+        <item quantity="one">Репродукција ће се зауставити за %d мин.</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Избрисати оволико %d песама?</item>
+        <item quantity="one">Избрисати %d песму?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Уклонити %d песме?</item>
+        <item quantity="one">Уклонити %d песму?</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Одабрано ставки %d</item>
+        <item quantity="one">%d одабрана ставка</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Песме су већ означене као фаворити.</item>
+        <item quantity="one">Песма је већ означена као фаворит.</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Песама: %d</item>
+        <item quantity="one">1 песма</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Преостало дана %d</item>
+        <item quantity="one">Преостао 1 дан</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d песама ће бити преузето</item>
+        <item quantity="one">1 песма ће бити преузета</item>
+    </plurals>
+	<plurals name="Nnew_tracks_count">
+        <item quantity="other">Ново: %d</item>
+		<item quantity="one">1 нова</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">Песама: %d</item>
+        <item quantity="one">%d песма</item>
+    </plurals>
+	<plurals name="Ntracks_similar_count">
+        <item quantity="other">Сличних песама: %d</item>
+        <item quantity="one">%d слична песма</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d песама додато на списак</item>
+        <item quantity="one">1 песма додата на списак</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d песама уклоњено са списка.</item>
+         <item quantity="one">1 песма уклоњена са списка.</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Песама: %d</item>
+        <item quantity="one">1 песма</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d песама ће бити послато</item>
+        <item quantity="one">1 песма ће бити послата</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">Песама: %d</item>
+        <item quantity="one">1 песма</item>
+    </plurals>
+	<plurals name="Nnew_local_audios">
+       <item quantity="other">Додато песама: %d</item>
+	   <item quantity="one">Додата %d песма</item>
+    </plurals>
+</resources> 

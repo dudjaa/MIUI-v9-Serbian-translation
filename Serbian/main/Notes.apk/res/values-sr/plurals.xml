@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s резултата за \"%2$s\"</item>
+        <item quantity="one">%1$s резултат за \"%2$s\"</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">Белешки: %1$s</item>
+        <item quantity="one">1 белешка</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">Белешки: %1$s</item>
+        <item quantity="one">%1$s белешку</item>
+     </plurals>
+     <plurals name="folder_terms">
+        <item quantity="other">Мапа: %1$s</item>
+        <item quantity="one">%1$s мапа</item>
+    </plurals>
+	<plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s још није синхронизовано"</item>
+        <item quantity="one">"%1$s још није синхронизован"</item>
+    </plurals>
+</resources> 

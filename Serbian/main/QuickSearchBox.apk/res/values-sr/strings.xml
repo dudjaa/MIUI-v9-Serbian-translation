@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_loaction">Пронађи на Поч. екрану</string>
+     <string name="app_name">Претражи</string>
+     <string name="appindex_description">Функције инсталираних аплик.</string>
+     <string name="appindex_search_label">Функције аплик.</string>
+     <string name="application_desc">Апликација</string>
+     <string name="applications_search_label">Апликације</string>
+     <string name="apps_search_activity" />
+     <string name="baidu_search_url_from_default">https://www.google.rs/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_input">https://www.google.rs/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_launcher">https://www.google.rs/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_systemui">https://www.google.rs/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+     <string name="choose_search_engine">Одабери подразумевани web претраживач</string>
+     <string name="clear_history">Избриши историју</string>
+     <string name="clear_shortcuts">Обриши пречицу</string>
+     <string name="clear_shortcuts_agree">Обриши пречице</string>
+     <string name="clear_shortcuts_disagree">"Не брисати пречице"</string>
+     <string name="clear_shortcuts_prompt">"То ће обрисати све пречице и недавно изабране предлоге претраживања.(За брисања историје претраживача, употребите подешавања прегледача.)"</string>
+     <string name="clear_shortcuts_summary">Избрисати пречице до недавно одабраних пречица претраживања</string>
+     <string name="common_setting">Општа подешавања</string>
+     <string name="connect_and_retry">Повежите се на интернет и покушајте поново</string>
+     <string name="corpus_description_apps">Називи инсталираних апликација</string>
+     <string name="corpus_description_web">Претраживање web-а,ознаке и историје претраживача</string>
+     <string name="corpus_hint_apps">Претражи апликације</string>
+     <string name="corpus_label_apps">Апликације</string>
+     <string name="corpus_label_global">Све</string>
+     <string name="corpus_label_web">Интернет</string>
+     <string name="corpus_selection_heading">Претражи</string>
+     <string name="cta_declaration">"Овој функцији треба повезивање са интернетом, приступ локацији вашег уређаја, и прегледа историју позива и контаката за нормални рад."</string>
+     <string name="cta_declaration_ignore">"Не приказуј поново"</string>
+     <string name="cta_declaration_negative_text">Излаз</string>
+     <string name="cta_declaration_positive_text">Дозвољавам</string>
+     <string name="cta_declaration_title">Услови Пружања Услуге</string>
+     <string name="default_hint">Тражи апликације, музику, видеозаписе, књиге…</string>
+     <string name="default_search_domain">.google.com</string>
+     <string name="device_settings_category_title">Избрижи пречице</string>
+     <string name="distance_unit_kilometer">км</string>
+     <string name="distance_unit_meter">м</string>
+     <string name="entrance_setting">Отварање претраживања</string>
+     <string name="google_app_label">Google претраживање</string>
+     <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
+     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+     <string name="google_search_description">Предлози Google Претраживача</string>
+     <string name="google_search_hint">Google претраживање</string>
+     <string name="google_search_label">Google</string>
+     <string name="google_settings_category_title">Google претраживање</string>
+     <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+     <string name="hot_search">Популарно</string>
+     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+     <string name="loading">Само тренутак…</string>
+     <string name="local_app">Апликације</string>
+     <string name="local_setting">Подешавања</string>
+     <string name="menu_help">Помоћ</string>
+     <string name="menu_settings">Подешавања претраживања</string>
+     <string name="network_unavailable">"Не могу се повезати на мрежу"</string>
+     <string name="permission_prompt_detail">Тражите филмове, књиге, музику и још много тога.</string>
+     <string name="permission_prompt_start">Допусти</string>
+     <string name="permission_prompt_started_info">"Допуштена вам је глобална претрага"</string>
+     <string name="permission_prompt_title">Желите још?</string>
+     <string name="pull_to_input">Повуци према доле за приказ траке претраживања</string>
+     <string name="recent_apps">Недавне апликације</string>
+     <string name="recent_apps_filter">"Сакријте апликације које не користите"</string>
+     <string name="recent_close_content">"Искључите сада ову функцију?
+ Можете то променити у Подешавања &gt; Инсталиране апликације &gt; Тражи"</string>
+     <string name="recent_close_title">Искључи функције</string>
+     <string name="recent_delete_content">"Сакрити сада ове апликације?
+  Можете то променити у Подешавања &gt; Инсталиране апликације &gt; Тражи"</string>
+     <string name="recent_delete_negative">Одустани</string>
+     <string name="recent_delete_positive">У реду</string>
+     <string name="recent_delete_title">Сакриј апликације</string>
+     <string name="recent_edit">Уреди</string>
+     <string name="recent_edit_done">Готово</string>
+     <string name="recent_filter_functions">Функције искључене</string>
+     <string name="recent_function">Функције</string>
+     <string name="recently_shortcut_label">Недавне пречице</string>
+     <string name="release_to_input">Отпусти за приказ траке претраживања</string>
+     <string name="remove_from_history">Уклањање ставке из историје</string>
+     <string name="remove_from_history_failed">"Уклањање ставке из историје није могуће"</string>
+     <string name="search_apps">Тражи апликације</string>
+     <string name="search_button">Тражи</string>
+     <string name="search_group_fold">Сакриј</string>
+     <string name="search_group_unfold">Више</string>
+     <string name="search_history">Историја</string>
+     <string name="search_in_app_store">Претражи на маркету</string>
+     <string name="search_in_web">Претражи на Интернету</string>
+     <string name="search_keyword_quicksearchbox">Тражи</string>
+     <string name="search_path_quicksearchbox">Подешавања/Инсталиране апликације/Тражи</string>
+     <string name="search_settings">Подешавање претраживања</string>
+     <string name="search_sources">Ставке претраживања</string>
+     <string name="search_sources_summary">Изаберите шта тражите на телефону</string>
+     <string name="search_suggestion">Савети</string>
+     <string name="search_videos">Тражи видеозаписе</string>
+     <string name="search_widget">Претражи</string>
+     <string name="searchable_lable_app">Аплик.</string>
+     <string name="searchable_lable_browser">Претраживач</string>
+     <string name="searchable_lable_duokan">Duokan</string>
+     <string name="searchable_lable_music">Музика</string>
+     <string name="searchable_lable_o2o">o2o</string>
+     <string name="searchable_lable_video">Видео</string>
+     <string name="searchable_sources">На мрежи</string>
+     <string name="send_secret_code">Пошаљи код</string>
+     <string name="settings_description">Називи инсталираних апликација</string>
+     <string name="show_more">Више</string>
+     <string name="suggest_open_app_failed">"Не могу да отворим ову апликацију"</string>
+     <string name="swipe_up_summary">Повуците горе за отварање глобалног претраживања</string>
+     <string name="swipe_up_title">Повуците горе</string>
+     <string name="switch_application">Апликације</string>
+     <string name="switch_browser">Претраживач</string>
+     <string name="switch_contacts">Контакти</string>
+     <string name="switch_file">Датотеке</string>
+     <string name="switch_mms">SMS</string>
+     <string name="switch_notes">Белешке</string>
+     <string name="switch_online">На мрежи</string>
+     <string name="switch_prompt_ignore">Игнориши</string>
+     <string name="switch_prompt_set">Прикажи опције</string>
+     <string name="switch_prompt_title">"Не можете пронаћи %s?"</string>
+     <string name="switch_setting">Подешавања</string>
+     <string name="system_search_category_title">Телефон</string>
+     <string name="top_clicked">Честе ставке</string>
+     <string name="update_check">Провери за ажурирања</string>
+     <string name="update_right_now">Ажурирај</string>
+     <string name="update_title">Ажурирање је доступно</string>
+     <string name="update_version_alpha">Алфа</string>
+     <string name="update_version_dev">Бета</string>
+     <string name="update_version_stable">Стабилно</string>
+     <string name="updated_title">MIUI је ажуриран</string>
+     <string name="voice_search_hint_quotation_end">”</string>
+     <string name="voice_search_hint_quotation_start">“</string>
+     <string name="voice_search_hint_title">Покушајте да кажете:</string>
+     <string name="web_search_results">Baidu</string>
+     <string name="xiaomi_hint" />
+     <string name="xiaomi_homepage_suggest" />
+     <string name="xiaomi_hot_query" />
+     <string name="xiaomi_search_label">Резултати</string>
+     <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+</resources>

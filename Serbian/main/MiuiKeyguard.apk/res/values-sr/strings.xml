@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="click_to_enter_text">Додирните за преглед</string>
+  <string name="confirm_pin_msg">Унесите PIN поново</string>
+  <string name="delete">Избриши</string>
+  <string name="emergency_call_string">SOS</string>
+  <string name="experimental_try_string">Покушај</string>
+  <string name="experimental_validate">Провера</string>
+  <string name="experimental_validate_fail">"Не могу проверити"</string>
+  <string name="experimental_validate_password">Лозинка</string>
+  <string name="experimental_validate_progress">Пријава…</string>
+  <string name="experimental_validate_thanks">Хвала!</string>
+  <string name="experimental_validate_username">Корисничко име</string>
+  <string name="experimental_validate_warning">Хвала вам што помажете да учините MIUI бољим!</string>
+  <string name="find_device_turn_off_flight_mode">Искључите Авионски начин</string>
+  <string name="forget_password_string">Заборављена лозинка</string>
+  <string name="incorrect_pincode">Нетачан PIN</string>
+  <string name="incorrect_pincode_remaining_attempts">Нетачан PIN, преостало покушаја %d</string>
+  <string name="incorrect_pukcode">Нетачан PUK</string>
+  <string name="incorrect_pukcode_remaining_attempts">Нетачан PUK, преостало покушаја %d</string>
+  <string name="input_password_hint_text">Унесите лозинку</string>
+  <string name="input_pin_code">Унесите PIN</string>
+  <string name="input_puk_code">Унесите PUK</string>
+  <string name="invalid_confirm_pin_hint">"PIN-ови се не подударају"</string>
+  <string name="keyguard_torch_cover_text">Да задржите лампу упаљеном, држите дугме за укључивање</string>
+  <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
+  <string name="lockscreen_access_pattern_cell_added">Ћелија додата</string>
+  <string name="lockscreen_access_pattern_cleared">Узорак обрисан</string>
+  <string name="lockscreen_access_pattern_detected">Узорак завршен</string>
+  <string name="lockscreen_access_pattern_start">Узорак започет</string>
+  <string name="lockscreen_charging_msg">Пуњење</string>
+  <string name="lockscreen_emergency_call">Хитан позив</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Нетачно сте покушали откључати телефон %d пута. Након још %d неуспелих покушаја, телефон ће се ресетовати на фабричкa подешавања и сви кориснички подаци ће бити изгубљени.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Нетачно сте унели лозинку %d пута. Након још %d неуспелих покушаја, од вас ће се тражити пријава на ваш Mi Рачун како би откључали телефон .
+	
+Покушајте поново за %d сек."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Нетачно сте покушали откључати телефон %d пута. Телефон ће се вратити на фабричка подешавања.</string>
+  <string name="lockscreen_glogin_checking_password">Провера…</string>
+  <string name="lockscreen_glogin_invalid_input">Нетачно корисничко име или лозинка.</string>
+  <string name="lockscreen_glogin_password_hint">Лозинка</string>
+  <string name="lockscreen_glogin_submit_button">Пријава</string>
+  <string name="login_website_in_case_forget_password">За обнову ваше лозинке, идите на www.mi.com/micloud.</string>
+  <string name="missed_call_text">Пропуштених позива %d</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Откључано Bluetooth уређајем</string>
+  <string name="open_camera_hint_text">Повуците лево за Фотоапарат</string>
+  <string name="open_remote_center_hint_text">Повуците десно за Телефон</string>
+  <string name="open_wifi_settings">Отворите мрежну везу</string>
+  <string name="phone_locked_string">Телефон је закључан</string>
+  <string name="phone_locked_timeout_minutes_string">Покушајте поново за %s мин.</string>
+  <string name="phone_locked_timeout_seconds_string">Покушајте поново за %s сек.</string>
+  <string name="unlock_sim_string">Откључај SIM</string>
+  <string name="unlock_string">Откључај</string>
+  <string name="unlocking_sim_card">Откључавање SIM картице</string>
+  <string name="unlockscreen_low_battery">Прикључите сада пуњач</string>
+  <string name="unlockscreen_recharge_completed">Батерија напуњена</string>
+  <string name="unlockscreen_recharging_message">Пуњење %d%%</string>
+  <string name="wrong_password">Нетачна лозинка</string>
+</resources>

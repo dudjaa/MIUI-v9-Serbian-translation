@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Недавних апликација: %d</item>
+        <item quantity="one">1 недавна апликација</item>
+    </plurals>
+	<plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Сакрити обавештења %d аплик.?"</item>
+        <item quantity="one">"Сакрити обавештења %d аплик.?"</item>
+    </plurals>
+</resources> 

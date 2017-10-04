@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="AVL">АВЛ</string>
+  <string name="DesAVL">АВЛ</string>
+  <string name="DesMi">Mi</string>
+  <string name="DesTencent">Тенцент</string>
+  <string name="Mi">Mi</string>
+  <string name="Tencent">Тенцент</string>
+  <string name="app_name">com.securitycore.miui_t</string>
+  <string name="avl_dialog_cloudscan"/>
+  <string name="avl_dialog_dbupdate"/>
+  <string name="avl_dialog_header">"Ова функција шифрује и шаље ID вашег уређаја на АВЛ сервере (%s)."</string>
+  <string name="avl_dialog_policy">Приказ Правила о Приватности</string>
+  <string name="avl_dialog_title">"АВЛ Правила о Приватности"</string>
+  <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+  <string name="hello_world">Здраво Свете!</string>
+  <string name="menu_settings">Подешавања</string>
+  <string name="tencent_dialog_cloudscan">Пошаљи имена и детање апликација и скенирајте помоћу онлине дефиниције вируса.</string>
+  <string name="tencent_dialog_dbupdate">Ажурирај аутоматски дефиниције вируса</string>
+  <string name="tencent_dialog_header">"Ова функција шифрује и шаље ID вашег уређаја на ТЕНЦЕНТ сервере (%s)."</string>
+  <string name="tencent_dialog_policy">Приказ Правила о Приватности</string>
+  <string name="tencent_dialog_title">Тенцент Правила о Приватности</string>
+  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+  <string name="title_activity_main">Основна делатност</string>
+</resources>
