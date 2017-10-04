@@ -518,7 +518,6 @@
      <string name="face_name_edit">Уреди</string>
      <string name="face_name_input">Унесите име</string>
      <string name="face_recommend">Препоруке</string>
-     <string name="face_recommend_group_number">%1$d/%2$d</string>
      <string name="facelift">Сјај лица</string>
      <string name="facetan">Преплануло лице</string>
      <string name="fail_hint">Радња није успела</string>
@@ -529,7 +528,6 @@
      <string name="family_member_invitation_text">Остали чланови породице</string>
      <string name="fast_share_auto_render">Улепшај</string>
      <string name="fast_share_auto_render_finish">Улепшано</string>
-     <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_finish">Синхр. са MiCloud</string>
      <string name="file_not_exist_message">"Датотека не постоји"</string>
      <string name="file_size">Вел. датотеке</string>
@@ -855,7 +853,6 @@
      <string name="people">Особе</string>
      <string name="people_page_label">Особе</string>
      <string name="people_page_unname">Без имена</string>
-     <string name="percent_sign">%</string>
      <string name="pet_album_display_name">Фотографије љубимаца</string>
      <string name="petabyteShort">PB</string>
      <string name="phone_number_empty_alert">Додај број телефона</string>

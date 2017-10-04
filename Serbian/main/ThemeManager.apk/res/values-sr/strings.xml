@@ -40,7 +40,6 @@
   <string name="favorite_list">Фаворити</string>
   <string name="favorite_list_format">Фаворит %1$s</string>
   <string name="gift_anonymous">Анонимно</string>
-  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Одустани</string>
   <string name="gift_operation_fail_dlg_retry">Покушајте поново</string>
   <string name="gift_operation_waiting">Тренутак…</string>
@@ -331,7 +330,6 @@
   <string name="theme_is_external_priority_storage">Сачувај на SD картицу</string>
   <string name="theme_is_external_priority_storage_summary">Апликација Теме ће се одмах покренути за промену Подешавања</string>
   <string name="theme_multiple_button_title_customize">Прилагоди</string>
-  <string name="theme_name">%1$s</string>
   <string name="theme_no">Не</string>
   <string name="theme_precast_create_notification_content">Додирните за приказ нових тема.</string>
   <string name="theme_precast_create_notification_title">Ажурирано на MIUI 7</string>

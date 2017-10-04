@@ -271,7 +271,6 @@
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Кôд функције је извршен.</string>
   <string name="fcError">Проблеми са везом или неважећи кôд функције.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Пронађи</string>
   <string name="find_next">Пронађи следеће</string>
   <string name="find_on_page">Пронађи на страници</string>
@@ -672,7 +671,6 @@
   <string name="needPuk">SIM картица је закључана PUK кодом. Унесите PUK кôд да бисте је откључали.</string>
   <string name="needPuk2">Унесите PUK2 да бисте деблокирали SIM картицу.</string>
   <string name="network_available_sign_in">Пријављивање на мрежу</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">Покрени %1$s</string>
   <string name="new_app_description">Зауставља стару апликацију без чувања.</string>
   <string name="next_button_label">Next</string>

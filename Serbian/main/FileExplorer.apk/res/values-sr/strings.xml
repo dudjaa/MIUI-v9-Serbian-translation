@@ -130,7 +130,6 @@
   <string name="favorite_photo">Фотографије</string>
   <string name="favorite_ringtone">Звукови звона</string>
   <string name="favorite_screen_cap">Снимак екрана</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_already_downlaoded">датотека снимљена у \"%1$s\"</string>
   <string name="file_info_canread">Читљиво:</string>
   <string name="file_info_canwrite">Писљиво:</string>
@@ -371,8 +370,6 @@
   <string name="search_result_more">Више</string>
   <string name="search_statistic_appname">Извор</string>
   <string name="search_statistic_keyword">keyin</string>
-  <string name="search_statistic_match_invalid">0</string>
-  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">Ознака</string>
   <string name="search_title">Тражи</string>
   <string name="search_title_hint">Тражи</string>

@@ -92,7 +92,6 @@
      <string name="call_sim2_menu_title">Назови са SIM2</string>
      <string name="call_telex">Позови телекс</string>
      <string name="call_tty_tdd">Позови TTY/TDD</string>
-     <string name="call_type_and_date">%1$s %2$s</string>
      <string name="call_unit">USD</string>
      <string name="call_work">Позови пословни телефон</string>
      <string name="call_work_mobile">Позови пословни мобилни телефон</string>
@@ -491,7 +490,6 @@
      <string name="foundTooManyContacts">Пронађено је више од %d.</string>
      <string name="fraud_more_indemnity">Више одштета</string>
      <string name="frequentList">Чести</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">Име</string>
      <string name="gallery">Галерија</string>
      <string name="generic_no_account_prompt">Очувајте безбедност контаката чак и ако изгубите телефон – синхронизујте са услугом на мрежи.</string>
@@ -571,7 +569,6 @@
      <string name="import_weibo_fetch_followers">Хватање контаката…</string>
      <string name="import_weibo_notification_title_done">Ажурирање контакта: %s</string>
      <string name="import_weibo_progress_name">Усклађивање \"%1$s\"…</string>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Увоз контаката са SIM картице…"</string>
      <string name="importing_sim_contacts_miui_prepare">Припрема контаката...</string>
      <string name="importing_vcard_canceled_title">"Увоз датотеке %s је  отказан"</string>
@@ -884,8 +881,6 @@
      <string name="path_wipe_data">Апликације система/Контакти/Организуј контакте/Избриши податке</string>
      <string name="payphone">Јавна говорница</string>
      <string name="people">Особе</string>
-     <string name="percent_sign">%</string>
-     <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Телефон</string>
      <string name="phone_call_type_livetalk">LiveTalk</string>
      <string name="phone_call_type_voip">VOIP</string>
@@ -1297,7 +1292,6 @@
      <string name="sim_no_contact">"Нема контаката на SIM картици"</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="single_group_list_empty">Нема чланова групе</string>
-     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
      <string name="smart_group_company_label">Компанија</string>
      <string name="smart_group_company_unavailable">Нема детаља компаније</string>
      <string name="smart_group_frequency_1">Унутар предходног месеца</string>
@@ -1430,7 +1424,6 @@
      <string name="voip_shortcut_name">Mi Voice</string>
      <string name="voip_video_description">Додирните за упућивање VoIP видеопозива</string>
      <string name="websiteLabelsGroup">Веб-сајт</string>
-     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
      <string name="wipe_data">Избриши податке</string>
      <string name="yellowPageNavigationIconLabel">Именик</string>
      <string name="yellowPageNavigationLabel">Именик</string>

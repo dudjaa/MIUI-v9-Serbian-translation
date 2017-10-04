@@ -72,5 +72,4 @@
   <string name="start_backup_to_micloud">Израда Сиг. копије апликација на MiCloud</string>
   <string name="start_recover">Обнови %s</string>
   <string name="wait_icon_download">Преузимање иконе апликацијa</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

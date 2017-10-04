@@ -750,7 +750,6 @@
      <string name="calendar_sound_title">Звук календара</string>
      <string name="call_manager_enable_summary">Допусти услизи управљање начином успостављања позива.</string>
      <string name="call_manager_enable_title">Омогући Администратор позива</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Администратор позива</string>
      <string name="call_settings_primary_user_only">Промени подешавања позива у простору</string>
      <string name="call_settings_summary">Подешавање гласовне поште, преусмеравања позива, стављања позива на чекање, ИД-а позиваоца</string>
@@ -1240,7 +1239,6 @@
      <string name="dndm_auto_button_title">Понови \"Не ометај ме"\ Време</string>
      <string name="dndm_auto_setting_group">Заказано</string>
      <string name="dndm_auto_time_setting">Подешавање времена</string>
-     <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
      <string name="dndm_auto_time_turn_off">До</string>
      <string name="dndm_auto_time_turn_off_title">Аутоматски искључи \"Не ометај ме“\</string>
      <string name="dndm_auto_time_turn_on">ОД</string>
@@ -1572,7 +1570,6 @@
      <string name="gadget_picker_title">Избор гаџета</string>
      <string name="gadget_state_off">искључено</string>
      <string name="gadget_state_on">укључено</string>
-     <string name="gadget_state_template">%1$s – %2$s</string>
      <string name="gadget_state_turning_off">искључивање</string>
      <string name="gadget_state_turning_on">укључивање</string>
      <string name="gadget_sync">Синхронизација</string>
@@ -1857,7 +1854,6 @@
      <string name="lift_to_wake_title">Активација подизањем</string>
      <string name="line_breaking_summary">Оптимизуј преламање линија у одломку</string>
      <string name="line_breaking_title">Оптимизуј текст</string>
-     <string name="link_speed">%1$d Mbps</string>
      <string name="link_speed_label">Брзина везе:</string>
      <string name="loading_notification_apps">Учитавање апликација…</string>
      <string name="local_auto_backup_off">Искључи</string>
@@ -2160,7 +2156,6 @@
      <string name="memory_title">Доступно: %1$s\u0009\u0009Укупно: %2$s</string>
      <string name="memory_usage">Употреба меморије</string>
      <string name="memory_usage_apps">Меморија коју употребљавају апликације</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="memory_use_summary">Просечна употреба меморије у последња 3 сата: %1$s</string>
      <string name="menu_cancel">Одбаци</string>
      <string name="menu_check">Искуство</string>
@@ -2191,7 +2186,6 @@
      <string name="mione_update_success_title">Ажурирано</string>
      <string name="misc_files">Разне датотеке</string>
      <string name="misc_files_selected_count">изабрано је %1$d од %2$d</string>
-     <string name="misc_files_selected_count_bytes">%1$s од %2$s</string>
      <string name="miui_allow_alarm">допусти аларм</string>
      <string name="miui_allow_light">допусти лампу</string>
      <string name="miui_allow_music">допусти музику</string>
@@ -2357,7 +2351,6 @@
      <string name="nfc_how_it_works_got_it">Схватам</string>
      <string name="nfc_how_it_works_title">Плаћање на терминалу</string>
      <string name="nfc_more_title">Више...</string>
-     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
      <string name="nfc_payment_default">Подразумевано плаћање</string>
      <string name="nfc_payment_default_not_set">Није подешено</string>
      <string name="nfc_payment_favor_default">Увек</string>
@@ -2379,7 +2372,6 @@
      <string name="nfc_se_wallet_title">Задати новчаник</string>
      <string name="night_mode_auto">Аутоматска</string>
      <string name="night_mode_no">Светла</string>
-     <string name="night_mode_summary">%s</string>
      <string name="night_mode_title">Тема</string>
      <string name="night_mode_yes">Тамна</string>
      <string name="no">Не</string>
@@ -2431,8 +2423,6 @@
      <string name="notifications_no_peeking">Онемогућено завиривање</string>
      <string name="notifications_priority">Приоритетно</string>
      <string name="notifications_sensitive">Скривен осетљиви садржај</string>
-     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-     <string name="notifications_two_items">%1$s / %2$s</string>
      <string name="now">Сада</string>
      <string name="nsd_quick_toggle_summary">Дозвољава апликацијама на другим уређајима да откривају апликације на овом уређају</string>
      <string name="nsd_quick_toggle_title">Откривање мрежне услуге</string>
@@ -2477,7 +2467,6 @@
      <string name="overlay_display_devices_title">Симулирај секундарне екране</string>
      <string name="overlay_settings">Повлачење преко других апликација.</string>
      <string name="owner_info_settings_edit_text_hint">Унесите текст за приказ на екрану за закључавање</string>
-     <string name="owner_info_settings_status">%1$d / %2$d</string>
      <string name="owner_info_settings_summary" />
      <string name="owner_info_settings_title">Власник информација</string>
      <string name="packages_subtitle">Садржани пакети</string>
@@ -2904,7 +2893,6 @@
      <string name="private_sms_recording_intro_header">Нацртајте узорак откључавања:</string>
      <string name="private_sms_reset_by_account">За поништавање лозинке,пријавите се на ваш Mi Рачун</string>
      <string name="process_dex2oat_label">Оптимизација апликација</string>
-     <string name="process_format">%1$s (%2$d)</string>
      <string name="process_kernel_label">Андроид ОС</string>
      <string name="process_mediaserver_label">Медија сервер</string>
      <string name="process_provider_in_use_description">Добављач %1$s се тренутно користи.</string>
@@ -3520,11 +3508,9 @@
      <string name="selinux_status_enforcing">Превођење</string>
      <string name="selinux_status_permissive">Допуштање</string>
      <string name="service_background_processes">%1$s слободно</string>
-     <string name="service_client_name">%1$s</string>
      <string name="service_foreground_processes">%1$s искоришћено</string>
      <string name="service_manage">"Подешавање"</string>
      <string name="service_manage_description">%1$s: тренутно у употреби. Додирните Подешавања за управљање.</string>
-     <string name="service_process_name">%1$s</string>
      <string name="service_restarting">Поново покретање</string>
      <string name="service_started_by_app">Покренула апликација.</string>
      <string name="service_stop">"Заустави"</string>
@@ -3668,7 +3654,6 @@
      <string name="sim_reenter_new">Поново унесите нови PIN</string>
      <string name="sim_select_card">Одабир SIM картице</string>
      <string name="sim_selection_required_pref">Потребан је одабир</string>
-     <string name="sim_settings_summary">%1$s – %2$s</string>
      <string name="sim_settings_title">SIM картице</string>
      <string name="sim_setup_wizard_title">SIM картице</string>
      <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3924,8 +3909,6 @@
      <string name="subs_settings">SUBS Статус</string>
      <string name="sum_carrier_select">Одаберите мрежног оператера</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_font_size">%1$s</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">%1$s – %2$s</string>
      <string name="supl_not_set">&lt;Није подешено&gt;</string>
      <string name="supplicant_state_label">Стање молбодавца:</string>
@@ -3951,7 +3934,6 @@
      <string name="sync_gmail">Gmail</string>
      <string name="sync_in_progress">Синхронизација у току…</string>
      <string name="sync_is_failing">Синхронизација тренутно има проблема. Ускоро ће наставити са радом.</string>
-     <string name="sync_item_title">%s</string>
      <string name="sync_menu_sync_cancel">Откажи синхронизацију</string>
      <string name="sync_menu_sync_now">Синхронизуј сада</string>
      <string name="sync_one_time_sync">"Додирните да би сте одмах синхронизовали %1$s"</string>
@@ -4981,7 +4963,6 @@
      <string name="zen_mode_rule_name_hint">Унесите назив правила</string>
      <string name="zen_mode_rule_name_warning">Назив правила већ се употребљава</string>
      <string name="zen_mode_rule_not_found_text">Правило није пронађено.</string>
-     <string name="zen_mode_rule_summary_combination">%1$s/%2$s</string>
      <string name="zen_mode_rule_type">Врста правила</string>
      <string name="zen_mode_rule_type_unknown">Непознато</string>
      <string name="zen_mode_schedule_rule_days">Дани</string>
@@ -4994,7 +4975,6 @@
      <string name="zen_mode_summary_alarms_only_by_time">Промени на \"Само аларми\" до %1$s</string>
      <string name="zen_mode_summary_alarms_only_indefinite">Промени на \"Само аларми\" на неодређено време</string>
      <string name="zen_mode_summary_always">Promijeni na \"Увек прекидај\"</string>
-     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
      <string name="zen_mode_when">Аутоматски укључи</string>
      <string name="zen_mode_when_every_night">Сваке ноћи</string>
      <string name="zen_mode_when_never">Никада</string>

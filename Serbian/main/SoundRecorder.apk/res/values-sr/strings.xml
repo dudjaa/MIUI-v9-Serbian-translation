@@ -162,5 +162,4 @@
      <string name="wifi_recommended_body" formatted="false">"Коришћење ваше мобилне податковне везе за преузимање ове датотеке (%s) ће повећати вашу употребу података. Ако прекорачите баше месечно ограничење, ваш мобилни оператер може вам наплатити додатне накнаде.
 За чекање WLAN везе за преузимање ове датотеке, додирните %s."</string>
      <string name="wifi_recommended_title">Упозорење употребе података</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

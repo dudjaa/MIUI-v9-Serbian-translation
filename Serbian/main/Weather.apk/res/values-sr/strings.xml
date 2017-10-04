@@ -117,7 +117,6 @@
      <string name="international_details_real_feel_title">"ОСЕЋАЈ "</string>
      <string name="international_details_title">Детаљи</string>
      <string name="international_details_uv_index_title">UV INDEX</string>
-     <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="international_details_wind_title">ВЕТАР</string>
      <string name="loading">Учитавање…</string>
      <string name="loading_resource_detail_fail">"Не могу учитати ресурсе"</string>
@@ -323,7 +322,6 @@
      <string name="share_subject">Подели</string>
      <string name="share_title">Подели Време</string>
      <string name="share_weather_desc">\#MIUI Време#Данас %1$s %2$s</string>
-     <string name="share_weather_desc_alert">%1$s%2$s</string>
      <string name="share_weather_desc_split">,</string>
      <string name="share_weather_save_pic_fail">"Не могу направити снимак екрана"</string>
      <string name="sunrise">Излазак сунца</string>

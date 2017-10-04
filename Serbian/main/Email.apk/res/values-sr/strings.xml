@@ -225,7 +225,6 @@
   <string name="always_show_images_toast">Слике овог сервера це аутоматски бити приказане.</string>
   <string name="annex_size">Привићи</string>
   <string name="app_name">E-пошта</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Архивирај</string>
   <string name="archived">Архивирано</string>
   <string name="att_download_failed_content">"Не могу преузети прилог за ову поруку."</string>
@@ -501,7 +500,6 @@
   <string name="folder_trash_name_en2">Избрисана порука</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Даље</string>
   <string name="forward_attachment">Проследи</string>
   <string name="forward_attribution">---------- Прослеђена порука ----------&lt;br&gt;Шаље: %1$s&lt;br&gt;Датум: %2$s&lt;br&gt;Предмет: %3$s&lt;br&gt;Прима: %4$s&lt;br&gt;</string>
@@ -968,7 +966,6 @@
   <string name="silent_ringtone">Бешумно</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">Грешка лозинке одлазног сервера</string>
   <string name="sort_attachment">Поређај по</string>
   <string name="spaceChar">" "</string>

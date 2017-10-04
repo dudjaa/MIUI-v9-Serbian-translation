@@ -10,7 +10,6 @@
   <string name="cancelling_notification_title_template">Отказује се %1$s</string>
   <string name="choose_print_service">Изаберите услугу штампања</string>
   <string name="collapse_handle">Ручица за сажимање</string>
-  <string name="current_page_template">%1$d/%2$d</string>
   <string name="expand_handle">Ручица за проширење</string>
   <string name="failed_notification_title_template">Грешка штампача %1$s</string>
   <string name="generating_print_job">Генерисање задатка за штампање</string>

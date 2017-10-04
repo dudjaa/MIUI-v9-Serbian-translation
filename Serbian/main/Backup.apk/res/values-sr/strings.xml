@@ -85,7 +85,6 @@
      <string name="delete_backup_title">Избриши Сиг. копију</string>
      <string name="delete_failed_backup_confirm">Ова сиг. копија садржи грешке.</string>
      <string name="deselect_all">Поништи одабир</string>
-     <string name="digit_percent">%</string>
      <string name="dir_date_format">HHmmss_MMddyyyy</string>
      <string name="disable_encrypt_title">Искључити шифровање</string>
      <string name="enable_encrypt">Укључити шифровање</string>
@@ -325,12 +324,8 @@
      <string name="user_notice_message">Неке функције захтевају повезивање са интернетом да раде нормално.</string>
      <string name="user_notice_title">Пажња</string>
      <string name="wifi_title">Подешавања WLAN-a</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
-     <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_connect_download_manager_fail">"Не могу започети преузимање. Уверите се да Управник преузимања ради нормално."</string>
      <string name="xiaomi_external_storage_unavailable">"Простор за складиштење није доступан, проверите SD картицу."</string>
-     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
      <string name="xiaomi_update_dialog_message">"Представљамо верзију %1$s

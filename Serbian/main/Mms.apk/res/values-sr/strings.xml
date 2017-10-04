@@ -171,7 +171,6 @@
   <string name="file_size">Величина:</string>
   <string name="file_title">назив:</string>
   <string name="file_width_height">Величина:</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="forward_from">Прослеђено из:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Укупно: %1$s Ова функција треба повезивање с интернетом да функционише нормално: %2$s?</string>
@@ -479,7 +478,6 @@
   <string name="send_sms">Пошаљи поруку</string>
   <string name="send_to">прима: </string>
   <string name="send_to_count">Послано: %1$s</string>
-  <string name="send_to_index_contact"> %1$s/%2$s</string>
   <string name="sent_label">"Послано: "</string>
   <string name="service_message_not_found">Порука је истекла или није доступна.</string>
   <string name="service_network_problem">Због проблема са мрежом слање није могуће.</string>

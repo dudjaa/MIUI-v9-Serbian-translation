@@ -32,7 +32,6 @@
      <string name="alert_dialog_yes">Да</string>
      <string name="antispam_local_marked">Локално онележен</string>
      <string name="antispam_marked_count">%1$d одбијено</string>
-     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Непознати број</string>
      <string name="antispam_provider">Индетификован од %s</string>
      <string name="apn_settings">Називи приступних тачака</string>

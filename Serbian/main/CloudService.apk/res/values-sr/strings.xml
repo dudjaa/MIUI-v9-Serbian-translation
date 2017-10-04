@@ -350,7 +350,6 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="view_storage_title">Простор за складиштење</string>
   <string name="voip_choose_sim">Одаберите број телефона за активирање Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

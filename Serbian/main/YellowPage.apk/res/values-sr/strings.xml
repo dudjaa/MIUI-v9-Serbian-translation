@@ -146,7 +146,6 @@
   <string name="express_order_failed">Није успело</string>
   <string name="express_order_ongoing">Наручујем</string>
   <string name="express_order_result">Резултат</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Прихваћено</string>
   <string name="express_order_state_allograph">Потписано</string>
   <string name="express_order_state_cancelled">Отказано</string>
@@ -258,7 +257,6 @@
   <string name="nearby_average_price">Просечно %d RMB</string>
   <string name="nearby_no_yellow_page">Нема резултата у близини</string>
   <string name="nearby_yellow_page_title">У близини</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Мрежни приступ одбијен</string>
   <string name="network_unavaliable">"Не могу се повезати на мрежу"</string>
   <string name="no_brief">Нема увођења</string>
@@ -274,7 +272,6 @@
   <string name="order_id_label">"Наруџбина #: %1$s"</string>
   <string name="order_info">Детаљи наруџбине</string>
   <string name="order_merchant_title">Моје поруџбине</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Нема повезаних поруџбина</string>
   <string name="order_price_label">Цена поруџбине: %1$s</string>
   <string name="order_product_name_label">"Назив производа: %1$s"</string>
@@ -320,7 +317,6 @@
   <string name="recharge_payment_result_ok_title">Додано RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Проверавам исход плаћања…</string>
   <string name="recharge_phone">Број за доплату:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">Унети број телефона не би требао бити празан</string>
   <string name="recharge_phone_number_error">Унешени број није исправан</string>
   <string name="recharge_select_money_title">Одабери највишу вредност</string>
@@ -496,7 +492,6 @@
   <string name="send_shortcut_success">Стављање на почетни екран</string>
   <string name="sending_shortcut">Шаљем</string>
   <string name="service_unavailiable">Услуга недоступна</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">сим 1</string>
   <string name="sim2">сим 2</string>
   <string name="sina_share_fail">Слање није успело</string>
