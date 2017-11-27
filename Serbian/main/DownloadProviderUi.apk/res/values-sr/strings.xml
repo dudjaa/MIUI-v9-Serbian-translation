@@ -237,7 +237,6 @@
   <string name="xiaomi_account_not_exist_message">"Тај Mi Рачун не постоји"</string>
   <string name="xunlei_account_has_unbind_message">Xunlei Рачун уклоњен</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
-  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Убрзати преузимање</string>
   <string name="xunlei_close_tips_content">Само за Кину</string>
   <string name="xunlei_close_tips_title">Ова функција се не препоручује за кориснике изван Кине</string>

@@ -2756,7 +2756,6 @@
      <string name="power_cell">Мобилни сигнал</string>
      <string name="power_center">Енергија</string>
      <string name="power_charge_remaining">%1$s до завршетка пуњења</string>
-     <string name="power_charging">%1$d%% – %2$s</string>
      <string name="power_charging_duration">%1$d%% – %2$s до напуњености</string>
      <string name="power_charging_duration_ac">%1$d%% – %2$s до напуњености путем утичнице</string>
      <string name="power_charging_duration_usb">%1$d%% – %2$s до напуњености путем USB-a</string>
@@ -2935,11 +2934,8 @@
      <string name="proxy_error_invalid_exclusion_list">Листа изузимања коју сте унели није исправно обликована. Унесите листу раздвојену зарезима која садржи изузете домене.</string>
      <string name="proxy_error_invalid_host">Име хоста које сте унели није важеће.</string>
      <string name="proxy_error_invalid_port">Унели сте неважећи порт.</string>
-     <string name="proxy_exclusionlist_hint">example.com,mojracunar.test.com,lokalnihost</string>
      <string name="proxy_exclusionlist_label">Прокси се заобилази за</string>
-     <string name="proxy_hostname_hint">proksi.example.com</string>
      <string name="proxy_hostname_label">Име хоста за прокси</string>
-     <string name="proxy_port_hint">8080</string>
      <string name="proxy_port_label">Прокси порт</string>
      <string name="proxy_settings_label">Подешавања за прокси</string>
      <string name="proxy_settings_title">Прокси</string>

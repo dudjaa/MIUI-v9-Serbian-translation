@@ -110,7 +110,6 @@
   <string name="dialog_type_image">Слике</string>
   <string name="dialog_type_text">Текст</string>
   <string name="dialog_type_video">Видео запис</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Празно</string>
   <string name="dlg_error_unmount_text">Није успело одстранити USB меморију.</string>
   <string name="download_current_progress">%1$d%%</string>

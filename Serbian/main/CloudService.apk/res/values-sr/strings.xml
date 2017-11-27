@@ -74,8 +74,6 @@
   <string name="find_device_dspt_provision">""Ako izgubite svoj uređaj, možete ići na %s za pronalaženje, zaključavanje, ili ga poništiti. 
   
  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Можете укључити искључити ту функцију у поставкама.</string>
   <string name="find_device_dspt_provision_4">Ако промените СИМ картице, СМС порука ће аутоматски бити послата за поновно активирање ове функције.</string>
   <string name="find_device_enabling">Укључивање</string>
@@ -83,7 +81,6 @@
   <string name="find_device_error_server">Грешка система</string>
   <string name="find_device_noise_title">Звук локација уређаја</string>
   <string name="find_device_notice_p1">Идите на</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"da pronađete, zaključate, ili poništite svoj uređaj na daljinu.
   
 Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
@@ -307,8 +304,6 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="sync_dspt_provision">"Синхронизација
 Синхронизујте ваше фотографије, контакте,белешке, и више између свих ваших уређаја или им приступите на "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Можете укључити/искључити ту функцију било када у поставкама.
   
   
