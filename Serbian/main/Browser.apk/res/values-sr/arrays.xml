@@ -90,16 +90,6 @@
         <item>Страница напред/назад</item>
         <item>Картица напред/назад</item>
      </string-array>
-     <string-array name="search_bar_search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
      <string-array name="shortcut_dialog_delete">
         <item>Избриши</item>
         <item>Не хвала</item>
