@@ -708,7 +708,6 @@
      <string name="bootloader_status_unlocked">Откључан</string>
      <string name="bootloader_status_unlocked_info">Овај уређај је откључан</string>
      <string name="bootloader_summary">Флешујте уређај путем USB-a</string>
-     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="breathing_light_color_menu_title">Боја LED-a</string>
      <string name="breathing_light_color_summary">LED боја код примања новог обавештења</string>
      <string name="breathing_light_freq_summary">Пулсирај када имаш нова обавештења</string>
@@ -804,7 +803,6 @@
      <string name="cell_broadcast_settings_summary">Одаберите врсту хитних емитовања за приказ</string>
      <string name="cellular_data_summary">Допусти мобилни пренос података</string>
      <string name="cellular_data_title">Мобилни подаци</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="change">Промени</string>
      <string name="change_password">Промени лозинку</string>
      <string name="change_security_lock">Пробај остале начине откључавања</string>
