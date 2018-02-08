@@ -1496,7 +1496,6 @@
   <string name="ssl_ca_cert_warning">Мрежа се можда надгледа</string>
   <string name="ssl_certificate">Безбедносни сертификат</string>
   <string name="ssl_certificate_is_valid">Овај сертификат је важећи.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SS захтев је модификован за DIAL захтев.</string>
   <string name="stk_cc_ss_to_ss">SS захтев је модификован за нови SS захтев.</string>
   <string name="stk_cc_ss_to_ussd">SS захтев је модификован за USSD захтев.</string>
