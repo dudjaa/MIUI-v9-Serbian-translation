@@ -3433,7 +3433,6 @@
      <string name="security_encryption_attention_3">"Морате подесити нову лозинку за закључавање екрана."</string>
      <string name="security_encryption_attention_4">"Побрините се да запамтите своју лозинку закључавања екрана, иначе че те морати да комплетно ресетујете уређај и избрисати све податке на уређају."</string>
      <string name="security_encryption_attention_info">Можете шифровати своје рачуне, подешавања, преузете апликације и њихове податке, медије и остале датотеке.</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_encryption_attention_title">Важно</string>
      <string name="security_encryption_close_dialog_info">Одабиром не шифровати уређај помоћу лозинке закључавања екрана може резултирати да неке Google услуге буду недоступне.</string>
      <string name="security_encryption_close_dialog_title">Идите назад за подразумевану заштиту лозинком</string>
