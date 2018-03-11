@@ -612,7 +612,6 @@
      <string name="keep_local">"Немој Синхр."</string>
      <string name="keep_local_btn">Употреби локалну меморију телефона.</string>
      <string name="label_custom_type">"Прилагођено"</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Нису пронађени дупликати</string>
      <string name="label_notes">Белешке</string>
      <string name="label_sip_address">Интернет позив</string>
@@ -884,7 +883,6 @@
      <string name="phoneLabelsGroup">Телефон</string>
      <string name="phone_call_type_livetalk">LiveTalk</string>
      <string name="phone_call_type_voip">VOIP</string>
-     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Број предугачак</string>
      <string name="phone_primary">"Примарни"</string>
      <string name="photoPickerNotFoundText">Нема доступних фотографија на телефону.</string>

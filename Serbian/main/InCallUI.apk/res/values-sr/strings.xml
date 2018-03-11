@@ -579,7 +579,6 @@
      <string name="phone_entered_ecm_text">Укључен ECM</string>
      <string name="phone_in_ecm_call_notification_text">Дата повезивост искључена</string>
      <string name="phone_in_ecm_notification_title">Начин хитног позива ECM</string>
-     <string name="phone_info_divider">"  |  "</string>
      <string name="pick_outgoing_call_phone_type">Упути позив</string>
      <string name="pick_outgoing_sip_phone">Користи рачун интернет позива:</string>
      <string name="picking_participant">Добијање информација о контакту…</string>

@@ -474,7 +474,6 @@
   <string name="pref_summary_lock_screen_memory_clean">Очисти аутоматски кад је уређај закључан</string>
   <string name="pref_title_lock_screen_memory_clean">Очисти код закљ. екрана</string>
   <string name="pref_title_open_optimizer_cloud_scan">Учитај</string>
-  <string name="process_kernel_label">Андроид</string>
   <string name="process_mediaserver_label">Медијски сервер</string>
   <string name="protection_category_dangerous_title">Ризик (%d)</string>
   <string name="protection_category_recommend_title">Препоручене промене (%d)</string>

@@ -26,7 +26,6 @@
   <string name="date_time_picker_dialog_title">Постави датум и време</string>
   <string name="deselect_all">Поништи одабир</string>
   <string name="early_morning">AM</string>
-  <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_forbidden">Синхронизација је искључена због проблема са вашим Mi Рачуном.</string>

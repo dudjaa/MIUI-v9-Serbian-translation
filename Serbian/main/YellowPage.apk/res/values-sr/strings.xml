@@ -292,7 +292,6 @@
   <string name="payment_unknown_status_summary">Проверите своју мрежну везу и покушајте поново.</string>
   <string name="payment_unknown_status_title">"Не могу потврдити статус плаћања"</string>
   <string name="phone_event_setting_notice_text">"Yellow Pages желе да пренесу верификационе бројеве услуга (као ваш оператер) на MI сервере, тако да можете примати ажурирања везана уз услуге.."</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d укупно</string>
   <string name="quick_yellow_page_tab_call_log">Запис позива</string>
   <string name="quick_yellow_page_tab_phones">Телефон</string>

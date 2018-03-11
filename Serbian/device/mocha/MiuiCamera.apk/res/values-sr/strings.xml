@@ -88,7 +88,6 @@
   <string name="effect_goofy_face_squeeze">Притиснути</string>
   <string name="effect_none">Ништа</string>
   <string name="effect_silly_faces">СМЕШНЕ ФАЦЕ</string>
-  <string name="empty">" "</string>
   <string name="enable_feature">Да</string>
   <string name="error_app_unsupported">Неподржана видео резолуција за ову врсту енкодера</string>
   <string name="error_app_unsupported_hfr_720p">720P може подржати до 90FPS</string>

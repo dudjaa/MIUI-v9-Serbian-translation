@@ -83,7 +83,6 @@
      <string name="download_preview_failed">"Не могу учитати приказ"</string>
      <string name="edit_alert_city_title">Управљај упозорењима</string>
      <string name="edit_city">Уреди</string>
-     <string name="empty">" "</string>
      <string name="fail_to_add_account">"Не могу додати рачун"</string>
      <string name="first_start_network_msg">Овој апликацији треба повезивање са интернетом и приступ локацији да ради нормално.</string>
      <string name="first_start_network_title">Повезивање са интернетом и приступ локацији</string>

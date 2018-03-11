@@ -2890,7 +2890,6 @@
      <string name="private_sms_recording_intro_header">Нацртајте узорак откључавања:</string>
      <string name="private_sms_reset_by_account">За поништавање лозинке,пријавите се на ваш Mi Рачун</string>
      <string name="process_dex2oat_label">Оптимизација апликација</string>
-     <string name="process_kernel_label">Андроид ОС</string>
      <string name="process_mediaserver_label">Медија сервер</string>
      <string name="process_provider_in_use_description">Добављач %1$s се тренутно користи.</string>
      <string name="process_service_in_use_description">Услуга %1$s се тренутно користи.</string>
