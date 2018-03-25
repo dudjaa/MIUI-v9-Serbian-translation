@@ -23,10 +23,6 @@
   <string name="account_folder_list_summary_inbox">Пристигла пошта</string>
   <string name="account_folder_list_summary_outbox">Излазна пошта</string>
   <string name="account_folder_list_summary_starred">Са звездицом</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Рачун са истим именом већ постоји.</string>
   <string name="account_options_acc_title">Рачун</string>
   <string name="account_options_common_title">Општа подешавања</string>
@@ -261,7 +257,6 @@
   <string name="attachments_header">Привићи</string>
   <string name="auth_error_notification_text">Додирните за уређивање подешавања рачуна за %s</string>
   <string name="auth_error_notification_title">Грешка провере аутентичности</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">"Након брисања иди …</string>
   <string name="auto_advance_label">Аутоматски пређи на следеће</string>
   <string name="auto_advance_summary">Одабероте који ће се екран  приказати након брисања поруке</string>
@@ -430,7 +425,6 @@
   <string name="edit_quick_response_dialog">Брзи одговор</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
-  <string name="email_package_name">com.android.email</string>
   <string name="empty_account_tip">"Не могу пронаћи рачун"</string>
   <string name="empty_email_tip">"Не могу послати празну e-poštu"</string>
   <string name="empty_spam">Пражњење нежељених садржаја</string>
@@ -543,7 +537,6 @@
   <string name="inline_picture_deleted">Preuzimanje slike koja nedostaje…"</string>
   <string name="inline_picture_download_complete">Преузимање слике довршено</string>
   <string name="input_password_prompt">Унесите лозинку:</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="invalid_recipient">Адреса %s није важећа.</string>
   <string name="invalid_recipient_title">Грешка приматеља</string>
@@ -973,7 +966,6 @@
   <string name="str_select_none">Поништи одабир</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Предмет</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="swipe_down_to_refresh">Пређите прстом према доле да освежите</string>
   <string name="switch_as_tranditional_view">Традиционални приказ</string>
   <string name="sync_error">Синхронизација није била могућа.</string>
